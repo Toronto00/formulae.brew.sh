@@ -1,9 +1,9 @@
 {
   "category": "install",
-  "total_items": 2848,
-  "start_date": "2020-09-30",
-  "end_date": "2020-10-30",
-  "total_count": 746697,
+  "total_items": 2850,
+  "start_date": "2020-09-29",
+  "end_date": "2020-10-29",
+  "total_count": 745244,
   "formulae": {
     "a52dec": [
       {
@@ -62,7 +62,7 @@
     "abyss": [
       {
         "formula": "abyss",
-        "count": "147"
+        "count": "159"
       }
     ],
     "ace": [
@@ -104,13 +104,13 @@
     "act": [
       {
         "formula": "act",
-        "count": "95"
+        "count": "93"
       }
     ],
     "activemq": [
       {
         "formula": "activemq",
-        "count": "2"
+        "count": "3"
       }
     ],
     "activemq-cpp": [
@@ -128,31 +128,31 @@
     "adios2": [
       {
         "formula": "adios2",
-        "count": "11"
+        "count": "12"
       }
     ],
     "adns": [
       {
         "formula": "adns",
-        "count": "244"
+        "count": "249"
       }
     ],
     "adoptopenjdk": [
       {
         "formula": "adoptopenjdk",
-        "count": "197"
+        "count": "200"
       }
     ],
     "adoptopenjdk@11": [
       {
         "formula": "adoptopenjdk@11",
-        "count": "48"
+        "count": "50"
       }
     ],
     "adr-tools": [
       {
         "formula": "adr-tools",
-        "count": "26"
+        "count": "24"
       }
     ],
     "advancecomp": [
@@ -170,7 +170,7 @@
     "adwaita-icon-theme": [
       {
         "formula": "adwaita-icon-theme",
-        "count": "12"
+        "count": "11"
       }
     ],
     "aescrypt": [
@@ -182,6 +182,12 @@
     "aescrypt-packetizer": [
       {
         "formula": "aescrypt-packetizer",
+        "count": "1"
+      }
+    ],
+    "afflib": [
+      {
+        "formula": "afflib",
         "count": "1"
       }
     ],
@@ -218,7 +224,7 @@
     "aircrack-ng": [
       {
         "formula": "aircrack-ng",
-        "count": "5"
+        "count": "4"
       }
     ],
     "airshare": [
@@ -266,7 +272,7 @@
     "allure": [
       {
         "formula": "allure",
-        "count": "27"
+        "count": "31"
       }
     ],
     "alot": [
@@ -284,7 +290,7 @@
     "alsa-lib": [
       {
         "formula": "alsa-lib",
-        "count": "1,395"
+        "count": "1,411"
       }
     ],
     "amazon-ecs-cli": [
@@ -350,7 +356,7 @@
     "ansible": [
       {
         "formula": "ansible",
-        "count": "309"
+        "count": "311"
       },
       {
         "formula": "ansible --HEAD",
@@ -390,7 +396,7 @@
     "ant": [
       {
         "formula": "ant",
-        "count": "98"
+        "count": "103"
       }
     ],
     "ant-contrib": [
@@ -408,13 +414,13 @@
     "antibody": [
       {
         "formula": "antibody",
-        "count": "23"
+        "count": "24"
       }
     ],
     "antigen": [
       {
         "formula": "antigen",
-        "count": "25"
+        "count": "23"
       }
     ],
     "antiword": [
@@ -438,7 +444,7 @@
     "anycable-go": [
       {
         "formula": "anycable-go",
-        "count": "1"
+        "count": "2"
       },
       {
         "formula": "anycable-go --HEAD",
@@ -448,13 +454,13 @@
     "anyenv": [
       {
         "formula": "anyenv",
-        "count": "189"
+        "count": "193"
       }
     ],
     "aom": [
       {
         "formula": "aom",
-        "count": "375"
+        "count": "376"
       }
     ],
     "apache-arrow": [
@@ -502,7 +508,7 @@
     "apktool": [
       {
         "formula": "apktool",
-        "count": "29"
+        "count": "36"
       }
     ],
     "apm-bash-completion": [
@@ -520,19 +526,19 @@
     "appium": [
       {
         "formula": "appium",
-        "count": "9"
+        "count": "5"
       }
     ],
     "apr": [
       {
         "formula": "apr",
-        "count": "327"
+        "count": "323"
       }
     ],
     "apr-util": [
       {
         "formula": "apr-util",
-        "count": "300"
+        "count": "298"
       }
     ],
     "apt": [
@@ -550,7 +556,7 @@
     "arangodb": [
       {
         "formula": "arangodb",
-        "count": "2"
+        "count": "3"
       }
     ],
     "archiver": [
@@ -562,7 +568,7 @@
     "arduino-cli": [
       {
         "formula": "arduino-cli",
-        "count": "79"
+        "count": "88"
       }
     ],
     "argo": [
@@ -574,13 +580,13 @@
     "argocd": [
       {
         "formula": "argocd",
-        "count": "80"
+        "count": "79"
       }
     ],
     "argon2": [
       {
         "formula": "argon2",
-        "count": "259"
+        "count": "257"
       }
     ],
     "argp-standalone": [
@@ -598,19 +604,13 @@
     "aria2": [
       {
         "formula": "aria2",
-        "count": "47"
+        "count": "45"
       }
     ],
     "arm-linux-gnueabihf-binutils": [
       {
         "formula": "arm-linux-gnueabihf-binutils",
         "count": "1"
-      }
-    ],
-    "arm-none-eabi-gcc-7": [
-      {
-        "formula": "arm-none-eabi-gcc-7",
-        "count": "2"
       }
     ],
     "arm-none-eabi-gcc-9": [
@@ -622,7 +622,7 @@
     "armadillo": [
       {
         "formula": "armadillo",
-        "count": "7"
+        "count": "4"
       }
     ],
     "arp-scan": [
@@ -658,19 +658,19 @@
     "asciidoc": [
       {
         "formula": "asciidoc",
-        "count": "62"
+        "count": "58"
       }
     ],
     "asciidoctor": [
       {
         "formula": "asciidoctor",
-        "count": "53"
+        "count": "51"
       }
     ],
     "asciinema": [
       {
         "formula": "asciinema",
-        "count": "126"
+        "count": "125"
       }
     ],
     "asciiquarium": [
@@ -688,7 +688,7 @@
     "asdf": [
       {
         "formula": "asdf",
-        "count": "177"
+        "count": "175"
       }
     ],
     "asio": [
@@ -712,13 +712,13 @@
     "aspcud": [
       {
         "formula": "aspcud",
-        "count": "29"
+        "count": "18"
       }
     ],
     "aspell": [
       {
         "formula": "aspell",
-        "count": "277"
+        "count": "276"
       }
     ],
     "asroute": [
@@ -758,13 +758,13 @@
     "at-spi2-core": [
       {
         "formula": "at-spi2-core",
-        "count": "305"
+        "count": "309"
       }
     ],
     "atk": [
       {
         "formula": "atk",
-        "count": "151"
+        "count": "150"
       }
     ],
     "atkmm": [
@@ -794,7 +794,7 @@
     "atool": [
       {
         "formula": "atool",
-        "count": "4"
+        "count": "3"
       }
     ],
     "aubio": [
@@ -806,7 +806,7 @@
     "augeas": [
       {
         "formula": "augeas",
-        "count": "23"
+        "count": "24"
       }
     ],
     "augustus": [
@@ -824,13 +824,13 @@
     "autoconf": [
       {
         "formula": "autoconf",
-        "count": "3,035"
+        "count": "3,048"
       }
     ],
     "autoconf-archive": [
       {
         "formula": "autoconf-archive",
-        "count": "9"
+        "count": "8"
       }
     ],
     "autoconf@2.13": [
@@ -842,25 +842,25 @@
     "autoenv": [
       {
         "formula": "autoenv",
-        "count": "10"
+        "count": "9"
       }
     ],
     "autogen": [
       {
         "formula": "autogen",
-        "count": "929"
+        "count": "942"
       }
     ],
     "autojump": [
       {
         "formula": "autojump",
-        "count": "47"
+        "count": "45"
       }
     ],
     "automake": [
       {
         "formula": "automake",
-        "count": "993"
+        "count": "1,008"
       }
     ],
     "autopep8": [
@@ -872,7 +872,7 @@
     "autossh": [
       {
         "formula": "autossh",
-        "count": "8"
+        "count": "7"
       }
     ],
     "avahi": [
@@ -902,7 +902,7 @@
     "avro-c": [
       {
         "formula": "avro-c",
-        "count": "26"
+        "count": "25"
       }
     ],
     "avro-cpp": [
@@ -926,7 +926,7 @@
     "awk": [
       {
         "formula": "awk",
-        "count": "34"
+        "count": "37"
       }
     ],
     "aws-apigateway-importer": [
@@ -938,7 +938,7 @@
     "aws-cdk": [
       {
         "formula": "aws-cdk",
-        "count": "101"
+        "count": "105"
       }
     ],
     "aws-cfn-tools": [
@@ -950,7 +950,7 @@
     "aws-elasticbeanstalk": [
       {
         "formula": "aws-elasticbeanstalk",
-        "count": "59"
+        "count": "58"
       }
     ],
     "aws-es-proxy": [
@@ -968,25 +968,25 @@
     "aws-iam-authenticator": [
       {
         "formula": "aws-iam-authenticator",
-        "count": "811"
+        "count": "802"
       }
     ],
     "aws-okta": [
       {
         "formula": "aws-okta",
-        "count": "178"
+        "count": "174"
       }
     ],
     "aws-sam-cli": [
       {
         "formula": "aws-sam-cli",
-        "count": "59"
+        "count": "58"
       }
     ],
     "aws-sdk-cpp": [
       {
         "formula": "aws-sdk-cpp",
-        "count": "1"
+        "count": "2"
       }
     ],
     "aws-shell": [
@@ -998,13 +998,13 @@
     "aws-vault": [
       {
         "formula": "aws-vault",
-        "count": "467"
+        "count": "463"
       }
     ],
     "awscli": [
       {
         "formula": "awscli",
-        "count": "1,908"
+        "count": "1,880"
       },
       {
         "formula": "awscli --HEAD",
@@ -1014,7 +1014,7 @@
     "awscli@1": [
       {
         "formula": "awscli@1",
-        "count": "15"
+        "count": "16"
       }
     ],
     "awscurl": [
@@ -1026,13 +1026,13 @@
     "awslogs": [
       {
         "formula": "awslogs",
-        "count": "31"
+        "count": "30"
       }
     ],
     "awsume": [
       {
         "formula": "awsume",
-        "count": "12"
+        "count": "10"
       }
     ],
     "awsweeper": [
@@ -1044,7 +1044,7 @@
     "axel": [
       {
         "formula": "axel",
-        "count": "6"
+        "count": "8"
       }
     ],
     "azcopy": [
@@ -1056,7 +1056,7 @@
     "azure-cli": [
       {
         "formula": "azure-cli",
-        "count": "333"
+        "count": "338"
       }
     ],
     "b2sum": [
@@ -1074,7 +1074,7 @@
     "babel": [
       {
         "formula": "babel",
-        "count": "5"
+        "count": "4"
       }
     ],
     "babl": [
@@ -1110,13 +1110,13 @@
     "bandcamp-dl": [
       {
         "formula": "bandcamp-dl",
-        "count": "10"
+        "count": "11"
       }
     ],
     "bandwhich": [
       {
         "formula": "bandwhich",
-        "count": "63"
+        "count": "61"
       }
     ],
     "baobab": [
@@ -1140,25 +1140,25 @@
     "bash": [
       {
         "formula": "bash",
-        "count": "229"
+        "count": "237"
       }
     ],
     "bash-completion": [
       {
         "formula": "bash-completion",
-        "count": "209"
+        "count": "216"
       }
     ],
     "bash-completion@2": [
       {
         "formula": "bash-completion@2",
-        "count": "86"
+        "count": "88"
       }
     ],
     "bash-git-prompt": [
       {
         "formula": "bash-git-prompt",
-        "count": "19"
+        "count": "17"
       }
     ],
     "bash-snippets": [
@@ -1176,13 +1176,13 @@
     "bastet": [
       {
         "formula": "bastet",
-        "count": "4"
+        "count": "3"
       }
     ],
     "bat": [
       {
         "formula": "bat",
-        "count": "853"
+        "count": "847"
       }
     ],
     "batik": [
@@ -1194,7 +1194,7 @@
     "bats": [
       {
         "formula": "bats",
-        "count": "6"
+        "count": "5"
       }
     ],
     "bats-core": [
@@ -1206,25 +1206,25 @@
     "bazel": [
       {
         "formula": "bazel",
-        "count": "157"
+        "count": "140"
       }
     ],
     "bazelisk": [
       {
         "formula": "bazelisk",
-        "count": "28"
+        "count": "26"
       }
     ],
     "bc": [
       {
         "formula": "bc",
-        "count": "13"
+        "count": "15"
       }
     ],
     "bcftools": [
       {
         "formula": "bcftools",
-        "count": "75"
+        "count": "73"
       }
     ],
     "bchunk": [
@@ -1242,7 +1242,7 @@
     "bdw-gc": [
       {
         "formula": "bdw-gc",
-        "count": "917"
+        "count": "925"
       },
       {
         "formula": "bdw-gc --HEAD",
@@ -1252,7 +1252,7 @@
     "beagle": [
       {
         "formula": "beagle",
-        "count": "33"
+        "count": "32"
       }
     ],
     "beanstalkd": [
@@ -1264,13 +1264,13 @@
     "bear": [
       {
         "formula": "bear",
-        "count": "19"
+        "count": "20"
       }
     ],
     "beast": [
       {
         "formula": "beast",
-        "count": "6"
+        "count": "5"
       }
     ],
     "bedops": [
@@ -1282,7 +1282,7 @@
     "bedtools": [
       {
         "formula": "bedtools",
-        "count": "82"
+        "count": "81"
       }
     ],
     "bee": [
@@ -1294,7 +1294,7 @@
     "bench": [
       {
         "formula": "bench",
-        "count": "20"
+        "count": "19"
       }
     ],
     "bento4": [
@@ -1312,13 +1312,13 @@
     "berkeley-db": [
       {
         "formula": "berkeley-db",
-        "count": "4,552"
+        "count": "4,574"
       }
     ],
     "berkeley-db@4": [
       {
         "formula": "berkeley-db@4",
-        "count": "12"
+        "count": "10"
       }
     ],
     "bettercap": [
@@ -1330,7 +1330,7 @@
     "bfg": [
       {
         "formula": "bfg",
-        "count": "45"
+        "count": "49"
       }
     ],
     "bin": [
@@ -1342,13 +1342,13 @@
     "binaryen": [
       {
         "formula": "binaryen",
-        "count": "27"
+        "count": "29"
       }
     ],
     "bind": [
       {
         "formula": "bind",
-        "count": "20"
+        "count": "18"
       }
     ],
     "bindfs": [
@@ -1360,7 +1360,7 @@
     "binutils": [
       {
         "formula": "binutils",
-        "count": "11,541"
+        "count": "11,538"
       }
     ],
     "binwalk": [
@@ -1378,7 +1378,7 @@
     "bison": [
       {
         "formula": "bison",
-        "count": "2,643"
+        "count": "2,640"
       }
     ],
     "bit": [
@@ -1420,19 +1420,19 @@
     "black": [
       {
         "formula": "black",
-        "count": "24"
+        "count": "23"
       }
     ],
     "blackbox": [
       {
         "formula": "blackbox",
-        "count": "4"
+        "count": "2"
       }
     ],
     "blast": [
       {
         "formula": "blast",
-        "count": "67"
+        "count": "68"
       }
     ],
     "blink1": [
@@ -1474,7 +1474,7 @@
     "boost": [
       {
         "formula": "boost",
-        "count": "526"
+        "count": "528"
       },
       {
         "formula": "boost --HEAD",
@@ -1490,7 +1490,7 @@
     "boost-build": [
       {
         "formula": "boost-build",
-        "count": "7"
+        "count": "6"
       }
     ],
     "boost-mpi": [
@@ -1514,7 +1514,7 @@
     "boot-clj": [
       {
         "formula": "boot-clj",
-        "count": "10"
+        "count": "11"
       }
     ],
     "bootloadhid": [
@@ -1538,13 +1538,13 @@
     "bower": [
       {
         "formula": "bower",
-        "count": "8"
+        "count": "7"
       }
     ],
     "bowtie2": [
       {
         "formula": "bowtie2",
-        "count": "47"
+        "count": "43"
       }
     ],
     "box2d": [
@@ -1568,7 +1568,7 @@
     "breezy": [
       {
         "formula": "breezy",
-        "count": "4"
+        "count": "2"
       }
     ],
     "brew-cask-completion": [
@@ -1580,13 +1580,13 @@
     "brew-gem": [
       {
         "formula": "brew-gem",
-        "count": "23"
+        "count": "24"
       }
     ],
     "brew-php-switcher": [
       {
         "formula": "brew-php-switcher",
-        "count": "4"
+        "count": "5"
       }
     ],
     "brew-pip": [
@@ -1610,18 +1610,12 @@
     "brotli": [
       {
         "formula": "brotli",
-        "count": "524"
+        "count": "513"
       }
     ],
     "browser": [
       {
         "formula": "browser",
-        "count": "2"
-      }
-    ],
-    "bsdmainutils": [
-      {
-        "formula": "bsdmainutils",
         "count": "1"
       }
     ],
@@ -1658,7 +1652,7 @@
     "buku": [
       {
         "formula": "buku",
-        "count": "6"
+        "count": "7"
       }
     ],
     "bullet": [
@@ -1682,7 +1676,7 @@
     "bundletool": [
       {
         "formula": "bundletool",
-        "count": "40"
+        "count": "42"
       }
     ],
     "bup": [
@@ -1706,7 +1700,7 @@
     "bwa": [
       {
         "formula": "bwa",
-        "count": "49"
+        "count": "47"
       }
     ],
     "bwfmetaedit": [
@@ -1718,31 +1712,31 @@
     "byacc": [
       {
         "formula": "byacc",
-        "count": "49"
+        "count": "50"
       }
     ],
     "byobu": [
       {
         "formula": "byobu",
-        "count": "9"
+        "count": "8"
       }
     ],
     "bzip2": [
       {
         "formula": "bzip2",
-        "count": "23,775"
+        "count": "23,785"
       }
     ],
     "c-ares": [
       {
         "formula": "c-ares",
-        "count": "584"
+        "count": "578"
       }
     ],
     "c-blosc": [
       {
         "formula": "c-blosc",
-        "count": "11"
+        "count": "12"
       }
     ],
     "c2048": [
@@ -1754,19 +1748,19 @@
     "cabal-install": [
       {
         "formula": "cabal-install",
-        "count": "46"
+        "count": "47"
       }
     ],
     "cabextract": [
       {
         "formula": "cabextract",
-        "count": "9"
+        "count": "8"
       }
     ],
     "cabocha": [
       {
         "formula": "cabocha",
-        "count": "22"
+        "count": "25"
       }
     ],
     "cactus": [
@@ -1784,7 +1778,7 @@
     "caddy": [
       {
         "formula": "caddy",
-        "count": "21"
+        "count": "24"
       }
     ],
     "caf": [
@@ -1802,7 +1796,7 @@
     "cairo": [
       {
         "formula": "cairo",
-        "count": "1,420"
+        "count": "1,422"
       }
     ],
     "cairomm": [
@@ -1820,7 +1814,7 @@
     "calcurse": [
       {
         "formula": "calcurse",
-        "count": "2"
+        "count": "1"
       }
     ],
     "calicoctl": [
@@ -1874,7 +1868,7 @@
     "cask": [
       {
         "formula": "cask",
-        "count": "58"
+        "count": "61"
       }
     ],
     "castxml": [
@@ -1886,7 +1880,7 @@
     "catch2": [
       {
         "formula": "catch2",
-        "count": "17"
+        "count": "18"
       }
     ],
     "catimg": [
@@ -1898,7 +1892,7 @@
     "cbc": [
       {
         "formula": "cbc",
-        "count": "11"
+        "count": "12"
       }
     ],
     "cc65": [
@@ -1910,7 +1904,7 @@
     "ccache": [
       {
         "formula": "ccache",
-        "count": "56"
+        "count": "58"
       }
     ],
     "ccat": [
@@ -1934,7 +1928,7 @@
     "ccls": [
       {
         "formula": "ccls",
-        "count": "57"
+        "count": "52"
       },
       {
         "formula": "ccls --HEAD",
@@ -1956,7 +1950,7 @@
     "cdk": [
       {
         "formula": "cdk",
-        "count": "3"
+        "count": "2"
       }
     ],
     "cdk8s": [
@@ -1986,7 +1980,7 @@
     "certbot": [
       {
         "formula": "certbot",
-        "count": "41"
+        "count": "40"
       }
     ],
     "certigo": [
@@ -2016,7 +2010,7 @@
     "cfitsio": [
       {
         "formula": "cfitsio",
-        "count": "87"
+        "count": "91"
       }
     ],
     "cflow": [
@@ -2028,13 +2022,13 @@
     "cfn-lint": [
       {
         "formula": "cfn-lint",
-        "count": "461"
+        "count": "456"
       }
     ],
     "cfssl": [
       {
         "formula": "cfssl",
-        "count": "26"
+        "count": "23"
       }
     ],
     "cgal": [
@@ -2046,7 +2040,7 @@
     "cgl": [
       {
         "formula": "cgl",
-        "count": "11"
+        "count": "12"
       }
     ],
     "chafa": [
@@ -2076,19 +2070,19 @@
     "chart-testing": [
       {
         "formula": "chart-testing",
-        "count": "51"
+        "count": "53"
       }
     ],
     "cheat": [
       {
         "formula": "cheat",
-        "count": "22"
+        "count": "21"
       }
     ],
     "check": [
       {
         "formula": "check",
-        "count": "12"
+        "count": "9"
       }
     ],
     "check_postgres": [
@@ -2112,7 +2106,7 @@
     "chezscheme": [
       {
         "formula": "chezscheme",
-        "count": "10"
+        "count": "11"
       }
     ],
     "chisel": [
@@ -2172,7 +2166,7 @@
     "circleci": [
       {
         "formula": "circleci",
-        "count": "144"
+        "count": "140"
       }
     ],
     "cjson": [
@@ -2184,7 +2178,13 @@
     "clang-format": [
       {
         "formula": "clang-format",
-        "count": "358"
+        "count": "337"
+      }
+    ],
+    "clang-format@8": [
+      {
+        "formula": "clang-format@8",
+        "count": "1"
       }
     ],
     "clblas": [
@@ -2202,7 +2202,7 @@
     "cli53": [
       {
         "formula": "cli53",
-        "count": "11"
+        "count": "10"
       }
     ],
     "clib": [
@@ -2256,19 +2256,19 @@
     "cln": [
       {
         "formula": "cln",
-        "count": "12"
+        "count": "13"
       }
     ],
     "cloc": [
       {
         "formula": "cloc",
-        "count": "39"
+        "count": "42"
       }
     ],
     "clojure": [
       {
         "formula": "clojure",
-        "count": "101"
+        "count": "103"
       }
     ],
     "clojure-lsp": [
@@ -2280,7 +2280,7 @@
     "clojurescript": [
       {
         "formula": "clojurescript",
-        "count": "1"
+        "count": "2"
       }
     ],
     "cloog": [
@@ -2310,13 +2310,13 @@
     "clp": [
       {
         "formula": "clp",
-        "count": "11"
+        "count": "12"
       }
     ],
     "cmake": [
       {
         "formula": "cmake",
-        "count": "2,964"
+        "count": "2,999"
       },
       {
         "formula": "cmake --HEAD",
@@ -2344,7 +2344,7 @@
     "cminpack": [
       {
         "formula": "cminpack",
-        "count": "5"
+        "count": "4"
       }
     ],
     "cmocka": [
@@ -2368,19 +2368,19 @@
     "cntlm": [
       {
         "formula": "cntlm",
-        "count": "2"
+        "count": "1"
       }
     ],
     "cocoapods": [
       {
         "formula": "cocoapods",
-        "count": "22"
+        "count": "19"
       }
     ],
     "code-server": [
       {
         "formula": "code-server",
-        "count": "13"
+        "count": "12"
       }
     ],
     "codemod": [
@@ -2404,19 +2404,19 @@
     "coinutils": [
       {
         "formula": "coinutils",
-        "count": "11"
+        "count": "12"
       }
     ],
     "colordiff": [
       {
         "formula": "colordiff",
-        "count": "57"
+        "count": "56"
       }
     ],
     "colormake": [
       {
         "formula": "colormake",
-        "count": "1"
+        "count": "2"
       }
     ],
     "colors256": [
@@ -2428,7 +2428,7 @@
     "colortail": [
       {
         "formula": "colortail",
-        "count": "2"
+        "count": "3"
       }
     ],
     "commandbox": [
@@ -2446,13 +2446,13 @@
     "composer": [
       {
         "formula": "composer",
-        "count": "268"
+        "count": "260"
       }
     ],
     "conan": [
       {
         "formula": "conan",
-        "count": "57"
+        "count": "51"
       }
     ],
     "concurrencykit": [
@@ -2482,13 +2482,13 @@
     "connect": [
       {
         "formula": "connect",
-        "count": "8"
+        "count": "10"
       }
     ],
     "consul": [
       {
         "formula": "consul",
-        "count": "24"
+        "count": "23"
       }
     ],
     "consul-template": [
@@ -2554,19 +2554,13 @@
     "coreutils": [
       {
         "formula": "coreutils",
-        "count": "597"
+        "count": "606"
       }
     ],
     "corkscrew": [
       {
         "formula": "corkscrew",
         "count": "4"
-      }
-    ],
-    "coturn": [
-      {
-        "formula": "coturn",
-        "count": "1"
       }
     ],
     "couchdb": [
@@ -2596,7 +2590,7 @@
     "cpio": [
       {
         "formula": "cpio",
-        "count": "20"
+        "count": "21"
       }
     ],
     "cppad": [
@@ -2620,13 +2614,13 @@
     "cpprestsdk": [
       {
         "formula": "cpprestsdk",
-        "count": "3"
+        "count": "4"
       }
     ],
     "cppunit": [
       {
         "formula": "cppunit",
-        "count": "28"
+        "count": "30"
       }
     ],
     "cpulimit": [
@@ -2641,12 +2635,6 @@
         "count": "15"
       }
     ],
-    "crash": [
-      {
-        "formula": "crash",
-        "count": "1"
-      }
-    ],
     "credstash": [
       {
         "formula": "credstash",
@@ -2656,7 +2644,7 @@
     "crf++": [
       {
         "formula": "crf++",
-        "count": "9"
+        "count": "10"
       }
     ],
     "croc": [
@@ -2674,7 +2662,7 @@
     "crystal": [
       {
         "formula": "crystal",
-        "count": "63"
+        "count": "60"
       }
     ],
     "cscope": [
@@ -2686,13 +2674,13 @@
     "csshx": [
       {
         "formula": "csshx",
-        "count": "21"
+        "count": "22"
       }
     ],
     "csvkit": [
       {
         "formula": "csvkit",
-        "count": "16"
+        "count": "14"
       }
     ],
     "csvq": [
@@ -2704,13 +2692,13 @@
     "ctags": [
       {
         "formula": "ctags",
-        "count": "121"
+        "count": "120"
       }
     ],
     "ctop": [
       {
         "formula": "ctop",
-        "count": "29"
+        "count": "33"
       }
     ],
     "cucumber-ruby": [
@@ -2728,13 +2716,13 @@
     "cunit": [
       {
         "formula": "cunit",
-        "count": "25"
+        "count": "28"
       }
     ],
     "cups": [
       {
         "formula": "cups",
-        "count": "1,492"
+        "count": "1,509"
       }
     ],
     "curaengine": [
@@ -2746,13 +2734,13 @@
     "curl": [
       {
         "formula": "curl",
-        "count": "3,360"
+        "count": "3,349"
       }
     ],
     "curl-openssl": [
       {
         "formula": "curl-openssl",
-        "count": "584"
+        "count": "576"
       }
     ],
     "curlftpfs": [
@@ -2788,7 +2776,7 @@
     "cython": [
       {
         "formula": "cython",
-        "count": "51"
+        "count": "46"
       }
     ],
     "czmq": [
@@ -2800,7 +2788,7 @@
     "daemon": [
       {
         "formula": "daemon",
-        "count": "2"
+        "count": "1"
       }
     ],
     "daemonize": [
@@ -2854,13 +2842,13 @@
     "dash": [
       {
         "formula": "dash",
-        "count": "3"
+        "count": "2"
       }
     ],
     "dashing": [
       {
         "formula": "dashing",
-        "count": "1"
+        "count": "2"
       }
     ],
     "dasht": [
@@ -2872,13 +2860,13 @@
     "datamash": [
       {
         "formula": "datamash",
-        "count": "7"
+        "count": "8"
       }
     ],
     "datasette": [
       {
         "formula": "datasette",
-        "count": "6"
+        "count": "7"
       }
     ],
     "dav1d": [
@@ -2890,7 +2878,7 @@
     "davix": [
       {
         "formula": "davix",
-        "count": "11"
+        "count": "12"
       }
     ],
     "davmail": [
@@ -2908,7 +2896,7 @@
     "dbus": [
       {
         "formula": "dbus",
-        "count": "260"
+        "count": "268"
       }
     ],
     "dbus-glib": [
@@ -2980,13 +2968,13 @@
     "dep": [
       {
         "formula": "dep",
-        "count": "48"
+        "count": "51"
       }
     ],
     "dependency-check": [
       {
         "formula": "dependency-check",
-        "count": "11"
+        "count": "12"
       }
     ],
     "desktop-file-utils": [
@@ -3010,7 +2998,7 @@
     "device-mapper": [
       {
         "formula": "device-mapper",
-        "count": "161"
+        "count": "147"
       }
     ],
     "devspace": [
@@ -3082,7 +3070,7 @@
     "dialog": [
       {
         "formula": "dialog",
-        "count": "30"
+        "count": "31"
       }
     ],
     "diamond": [
@@ -3106,7 +3094,7 @@
     "diff-so-fancy": [
       {
         "formula": "diff-so-fancy",
-        "count": "82"
+        "count": "85"
       }
     ],
     "diffoscope": [
@@ -3142,7 +3130,7 @@
     "direnv": [
       {
         "formula": "direnv",
-        "count": "464"
+        "count": "465"
       }
     ],
     "diskonaut": [
@@ -3154,7 +3142,7 @@
     "diskus": [
       {
         "formula": "diskus",
-        "count": "4"
+        "count": "3"
       }
     ],
     "dislocker": [
@@ -3172,7 +3160,7 @@
     "dive": [
       {
         "formula": "dive",
-        "count": "146"
+        "count": "133"
       }
     ],
     "django-completion": [
@@ -3214,13 +3202,13 @@
     "dnscrypt-proxy": [
       {
         "formula": "dnscrypt-proxy",
-        "count": "3"
+        "count": "2"
       }
     ],
     "dnsmasq": [
       {
         "formula": "dnsmasq",
-        "count": "21"
+        "count": "23"
       }
     ],
     "dnstop": [
@@ -3244,19 +3232,19 @@
     "docbook": [
       {
         "formula": "docbook",
-        "count": "655"
+        "count": "654"
       }
     ],
     "docbook-xsl": [
       {
         "formula": "docbook-xsl",
-        "count": "651"
+        "count": "650"
       }
     ],
     "docker": [
       {
         "formula": "docker",
-        "count": "483"
+        "count": "485"
       }
     ],
     "docker-clean": [
@@ -3268,13 +3256,13 @@
     "docker-completion": [
       {
         "formula": "docker-completion",
-        "count": "27"
+        "count": "28"
       }
     ],
     "docker-compose": [
       {
         "formula": "docker-compose",
-        "count": "716"
+        "count": "730"
       }
     ],
     "docker-compose-completion": [
@@ -3298,7 +3286,7 @@
     "docker-machine": [
       {
         "formula": "docker-machine",
-        "count": "66"
+        "count": "64"
       }
     ],
     "docker-machine-completion": [
@@ -3316,7 +3304,7 @@
     "docker-machine-driver-vmware": [
       {
         "formula": "docker-machine-driver-vmware",
-        "count": "8"
+        "count": "9"
       }
     ],
     "docker-machine-driver-xhyve": [
@@ -3370,7 +3358,7 @@
     "docutils": [
       {
         "formula": "docutils",
-        "count": "53"
+        "count": "50"
       }
     ],
     "docx2txt": [
@@ -3394,7 +3382,7 @@
     "dos2unix": [
       {
         "formula": "dos2unix",
-        "count": "59"
+        "count": "61"
       }
     ],
     "dosbox": [
@@ -3407,12 +3395,6 @@
       {
         "formula": "dosbox-x",
         "count": "2"
-      }
-    ],
-    "dotnet": [
-      {
-        "formula": "dotnet",
-        "count": "1"
       }
     ],
     "double-conversion": [
@@ -3430,19 +3412,19 @@
     "doxygen": [
       {
         "formula": "doxygen",
-        "count": "89"
+        "count": "92"
       }
     ],
     "dpkg": [
       {
         "formula": "dpkg",
-        "count": "14"
+        "count": "13"
       }
     ],
     "drone-cli": [
       {
         "formula": "drone-cli",
-        "count": "4"
+        "count": "5"
       }
     ],
     "dropbear": [
@@ -3460,7 +3442,7 @@
     "dtc": [
       {
         "formula": "dtc",
-        "count": "10"
+        "count": "11"
       }
     ],
     "dterm": [
@@ -3481,12 +3463,6 @@
         "count": "2"
       }
     ],
-    "duckdb": [
-      {
-        "formula": "duckdb",
-        "count": "1"
-      }
-    ],
     "duktape": [
       {
         "formula": "duktape",
@@ -3502,13 +3478,13 @@
     "dune": [
       {
         "formula": "dune",
-        "count": "2"
+        "count": "3"
       }
     ],
     "duplicity": [
       {
         "formula": "duplicity",
-        "count": "4"
+        "count": "5"
       }
     ],
     "dupseek": [
@@ -3568,7 +3544,7 @@
     "easyengine": [
       {
         "formula": "easyengine",
-        "count": "11"
+        "count": "10"
       }
     ],
     "ec2-api-tools": [
@@ -3598,25 +3574,25 @@
     "ed": [
       {
         "formula": "ed",
-        "count": "6"
+        "count": "5"
       }
     ],
     "editorconfig": [
       {
         "formula": "editorconfig",
-        "count": "10"
+        "count": "9"
       }
     ],
     "eg-examples": [
       {
         "formula": "eg-examples",
-        "count": "4"
+        "count": "3"
       }
     ],
     "eigen": [
       {
         "formula": "eigen",
-        "count": "160"
+        "count": "161"
       }
     ],
     "ekg2": [
@@ -3628,7 +3604,7 @@
     "eksctl": [
       {
         "formula": "eksctl",
-        "count": "83"
+        "count": "85"
       },
       {
         "formula": "eksctl --HEAD",
@@ -3638,7 +3614,7 @@
     "elasticsearch": [
       {
         "formula": "elasticsearch",
-        "count": "57"
+        "count": "55"
       }
     ],
     "elasticsearch@6": [
@@ -3672,7 +3648,7 @@
     "elixir": [
       {
         "formula": "elixir",
-        "count": "88"
+        "count": "85"
       }
     ],
     "elm": [
@@ -3684,7 +3660,7 @@
     "elm-format": [
       {
         "formula": "elm-format",
-        "count": "6"
+        "count": "5"
       }
     ],
     "elvish": [
@@ -3696,11 +3672,11 @@
     "emacs": [
       {
         "formula": "emacs",
-        "count": "294"
+        "count": "302"
       },
       {
         "formula": "emacs --HEAD",
-        "count": "5"
+        "count": "6"
       }
     ],
     "emacs-clang-complete-async": [
@@ -3721,10 +3697,16 @@
         "count": "1"
       }
     ],
+    "emojify": [
+      {
+        "formula": "emojify",
+        "count": "1"
+      }
+    ],
     "emscripten": [
       {
         "formula": "emscripten",
-        "count": "1"
+        "count": "3"
       }
     ],
     "encfs": [
@@ -3790,13 +3772,13 @@
     "epsilon": [
       {
         "formula": "epsilon",
-        "count": "58"
+        "count": "60"
       }
     ],
     "epstool": [
       {
         "formula": "epstool",
-        "count": "8"
+        "count": "9"
       }
     ],
     "eralchemy": [
@@ -3808,7 +3790,7 @@
     "erlang": [
       {
         "formula": "erlang",
-        "count": "130"
+        "count": "132"
       }
     ],
     "erlang@21": [
@@ -3856,7 +3838,7 @@
     "ethereum": [
       {
         "formula": "ethereum",
-        "count": "42"
+        "count": "41"
       }
     ],
     "ettercap": [
@@ -3880,7 +3862,7 @@
     "exa": [
       {
         "formula": "exa",
-        "count": "254"
+        "count": "259"
       }
     ],
     "excel-compare": [
@@ -3898,7 +3880,7 @@
     "exiftool": [
       {
         "formula": "exiftool",
-        "count": "330"
+        "count": "332"
       }
     ],
     "exiftran": [
@@ -3916,7 +3898,7 @@
     "expat": [
       {
         "formula": "expat",
-        "count": "9,283"
+        "count": "9,260"
       }
     ],
     "expect": [
@@ -3928,7 +3910,7 @@
     "exploitdb": [
       {
         "formula": "exploitdb",
-        "count": "3"
+        "count": "4"
       }
     ],
     "ext2fuse": [
@@ -3952,13 +3934,13 @@
     "faac": [
       {
         "formula": "faac",
-        "count": "11"
+        "count": "10"
       }
     ],
     "faad2": [
       {
         "formula": "faad2",
-        "count": "11"
+        "count": "10"
       }
     ],
     "faas-cli": [
@@ -4012,13 +3994,13 @@
     "fasd": [
       {
         "formula": "fasd",
-        "count": "40"
+        "count": "41"
       }
     ],
     "fastlane": [
       {
         "formula": "fastlane",
-        "count": "43"
+        "count": "41"
       }
     ],
     "fastqc": [
@@ -4042,13 +4024,13 @@
     "fblog": [
       {
         "formula": "fblog",
-        "count": "23"
+        "count": "22"
       }
     ],
     "fcct": [
       {
         "formula": "fcct",
-        "count": "2"
+        "count": "3"
       }
     ],
     "fcl": [
@@ -4066,7 +4048,7 @@
     "fd": [
       {
         "formula": "fd",
-        "count": "274"
+        "count": "275"
       }
     ],
     "fdclone": [
@@ -4078,7 +4060,7 @@
     "fdk-aac": [
       {
         "formula": "fdk-aac",
-        "count": "17"
+        "count": "18"
       }
     ],
     "fdroidserver": [
@@ -4114,13 +4096,13 @@
     "fff": [
       {
         "formula": "fff",
-        "count": "6"
+        "count": "7"
       }
     ],
     "ffmpeg": [
       {
         "formula": "ffmpeg",
-        "count": "583"
+        "count": "584"
       },
       {
         "formula": "ffmpeg --HEAD",
@@ -4154,25 +4136,25 @@
     "ffsend": [
       {
         "formula": "ffsend",
-        "count": "24"
+        "count": "25"
       }
     ],
     "fftw": [
       {
         "formula": "fftw",
-        "count": "359"
+        "count": "360"
       }
     ],
     "fig2dev": [
       {
         "formula": "fig2dev",
-        "count": "7"
+        "count": "8"
       }
     ],
     "figlet": [
       {
         "formula": "figlet",
-        "count": "32"
+        "count": "30"
       }
     ],
     "file-formula": [
@@ -4196,7 +4178,7 @@
     "findomain": [
       {
         "formula": "findomain",
-        "count": "4"
+        "count": "5"
       }
     ],
     "findutils": [
@@ -4214,13 +4196,13 @@
     "firebase-cli": [
       {
         "formula": "firebase-cli",
-        "count": "38"
+        "count": "37"
       }
     ],
     "fish": [
       {
         "formula": "fish",
-        "count": "483"
+        "count": "470"
       },
       {
         "formula": "fish --HEAD",
@@ -4236,7 +4218,7 @@
     "flac": [
       {
         "formula": "flac",
-        "count": "583"
+        "count": "582"
       }
     ],
     "flake8": [
@@ -4248,13 +4230,19 @@
     "flann": [
       {
         "formula": "flann",
-        "count": "6"
+        "count": "5"
       }
     ],
     "flarectl": [
       {
         "formula": "flarectl",
         "count": "2"
+      }
+    ],
+    "flash": [
+      {
+        "formula": "flash",
+        "count": "1"
       }
     ],
     "flatbuffers": [
@@ -4278,7 +4266,7 @@
     "flex": [
       {
         "formula": "flex",
-        "count": "1,240"
+        "count": "1,248"
       },
       {
         "formula": "flex --HEAD",
@@ -4288,7 +4276,7 @@
     "flint": [
       {
         "formula": "flint",
-        "count": "114"
+        "count": "113"
       }
     ],
     "flow": [
@@ -4306,7 +4294,7 @@
     "fltk": [
       {
         "formula": "fltk",
-        "count": "20"
+        "count": "21"
       }
     ],
     "fluent-agent-hydra": [
@@ -4336,7 +4324,7 @@
     "fmt": [
       {
         "formula": "fmt",
-        "count": "27"
+        "count": "26"
       }
     ],
     "fn": [
@@ -4360,7 +4348,7 @@
     "folly": [
       {
         "formula": "folly",
-        "count": "14"
+        "count": "16"
       }
     ],
     "foma": [
@@ -4378,13 +4366,13 @@
     "fontconfig": [
       {
         "formula": "fontconfig",
-        "count": "2,639"
+        "count": "2,671"
       }
     ],
     "fontforge": [
       {
         "formula": "fontforge",
-        "count": "34"
+        "count": "33"
       }
     ],
     "fonttools": [
@@ -4432,13 +4420,19 @@
     "fortune": [
       {
         "formula": "fortune",
-        "count": "28"
+        "count": "27"
       }
     ],
     "fox": [
       {
         "formula": "fox",
         "count": "7"
+      }
+    ],
+    "fpc": [
+      {
+        "formula": "fpc",
+        "count": "1"
       }
     ],
     "fping": [
@@ -4462,25 +4456,25 @@
     "freeglut": [
       {
         "formula": "freeglut",
-        "count": "282"
+        "count": "277"
       }
     ],
     "freetds": [
       {
         "formula": "freetds",
-        "count": "358"
+        "count": "362"
       }
     ],
     "freetype": [
       {
         "formula": "freetype",
-        "count": "4,167"
+        "count": "4,172"
       }
     ],
     "freexl": [
       {
         "formula": "freexl",
-        "count": "63"
+        "count": "67"
       }
     ],
     "frei0r": [
@@ -4492,7 +4486,7 @@
     "fribidi": [
       {
         "formula": "fribidi",
-        "count": "921"
+        "count": "936"
       }
     ],
     "frontastic-cli": [
@@ -4528,7 +4522,7 @@
     "fselect": [
       {
         "formula": "fselect",
-        "count": "4"
+        "count": "3"
       }
     ],
     "fsh": [
@@ -4546,7 +4540,7 @@
     "fswatch": [
       {
         "formula": "fswatch",
-        "count": "29"
+        "count": "28"
       }
     ],
     "ftgl": [
@@ -4570,7 +4564,7 @@
     "fzf": [
       {
         "formula": "fzf",
-        "count": "1,480"
+        "count": "1,406"
       },
       {
         "formula": "fzf --HEAD",
@@ -4580,7 +4574,7 @@
     "fzy": [
       {
         "formula": "fzy",
-        "count": "13"
+        "count": "16"
       }
     ],
     "gambit": [
@@ -4610,7 +4604,7 @@
     "gatsby-cli": [
       {
         "formula": "gatsby-cli",
-        "count": "13"
+        "count": "12"
       }
     ],
     "gauche": [
@@ -4622,7 +4616,7 @@
     "gawk": [
       {
         "formula": "gawk",
-        "count": "100"
+        "count": "96"
       }
     ],
     "gcab": [
@@ -4634,49 +4628,49 @@
     "gcc": [
       {
         "formula": "gcc",
-        "count": "11,018"
+        "count": "11,012"
       }
     ],
     "gcc@10": [
       {
         "formula": "gcc@10",
-        "count": "169"
+        "count": "167"
       }
     ],
     "gcc@4.9": [
       {
         "formula": "gcc@4.9",
-        "count": "11"
+        "count": "12"
       }
     ],
     "gcc@5": [
       {
         "formula": "gcc@5",
-        "count": "225"
+        "count": "219"
       }
     ],
     "gcc@6": [
       {
         "formula": "gcc@6",
-        "count": "434"
+        "count": "452"
       }
     ],
     "gcc@7": [
       {
         "formula": "gcc@7",
-        "count": "349"
+        "count": "344"
       }
     ],
     "gcc@8": [
       {
         "formula": "gcc@8",
-        "count": "35"
+        "count": "34"
       }
     ],
     "gcc@9": [
       {
         "formula": "gcc@9",
-        "count": "159"
+        "count": "171"
       }
     ],
     "gcovr": [
@@ -4688,13 +4682,13 @@
     "gd": [
       {
         "formula": "gd",
-        "count": "448"
+        "count": "454"
       }
     ],
     "gdal": [
       {
         "formula": "gdal",
-        "count": "68"
+        "count": "67"
       },
       {
         "formula": "gdal --HEAD",
@@ -4704,7 +4698,7 @@
     "gdb": [
       {
         "formula": "gdb",
-        "count": "125"
+        "count": "108"
       }
     ],
     "gdbgui": [
@@ -4716,13 +4710,13 @@
     "gdbm": [
       {
         "formula": "gdbm",
-        "count": "24,634"
+        "count": "24,693"
       }
     ],
     "gdk-pixbuf": [
       {
         "formula": "gdk-pixbuf",
-        "count": "312"
+        "count": "305"
       }
     ],
     "gdrive": [
@@ -4758,7 +4752,7 @@
     "gegl": [
       {
         "formula": "gegl",
-        "count": "2"
+        "count": "1"
       }
     ],
     "gem-cfn-nag": [
@@ -4770,7 +4764,7 @@
     "gem-colorls": [
       {
         "formula": "gem-colorls",
-        "count": "2"
+        "count": "3"
       }
     ],
     "gem-compass": [
@@ -4794,25 +4788,25 @@
     "gem-homesick": [
       {
         "formula": "gem-homesick",
-        "count": "1"
+        "count": "2"
       }
     ],
     "gem-lastpass-ssh": [
       {
         "formula": "gem-lastpass-ssh",
-        "count": "1"
+        "count": "2"
       }
     ],
     "gem-pry": [
       {
         "formula": "gem-pry",
-        "count": "1"
+        "count": "2"
       }
     ],
     "gem-sqlint": [
       {
         "formula": "gem-sqlint",
-        "count": "1"
+        "count": "2"
       }
     ],
     "generate-json-schema": [
@@ -4842,7 +4836,7 @@
     "geos": [
       {
         "formula": "geos",
-        "count": "82"
+        "count": "83"
       }
     ],
     "gerbil-scheme": [
@@ -4866,7 +4860,7 @@
     "gettext": [
       {
         "formula": "gettext",
-        "count": "4,741"
+        "count": "4,754"
       }
     ],
     "gexiv2": [
@@ -4878,25 +4872,25 @@
     "gflags": [
       {
         "formula": "gflags",
-        "count": "81"
+        "count": "87"
       }
     ],
     "gforth": [
       {
         "formula": "gforth",
-        "count": "2"
+        "count": "1"
       }
     ],
     "gh": [
       {
         "formula": "gh",
-        "count": "1,724"
+        "count": "1,658"
       }
     ],
     "ghc": [
       {
         "formula": "ghc",
-        "count": "200"
+        "count": "195"
       }
     ],
     "ghc@8.6": [
@@ -4908,7 +4902,7 @@
     "ghc@8.8": [
       {
         "formula": "ghc@8.8",
-        "count": "23"
+        "count": "26"
       }
     ],
     "ghex": [
@@ -4926,13 +4920,13 @@
     "ghostscript": [
       {
         "formula": "ghostscript",
-        "count": "505"
+        "count": "529"
       }
     ],
     "ghq": [
       {
         "formula": "ghq",
-        "count": "94"
+        "count": "96"
       }
     ],
     "ghz": [
@@ -4944,13 +4938,13 @@
     "gibo": [
       {
         "formula": "gibo",
-        "count": "28"
+        "count": "30"
       }
     ],
     "giflib": [
       {
         "formula": "giflib",
-        "count": "372"
+        "count": "376"
       }
     ],
     "giflossy": [
@@ -4986,19 +4980,19 @@
     "ginac": [
       {
         "formula": "ginac",
-        "count": "12"
+        "count": "13"
       }
     ],
     "gist": [
       {
         "formula": "gist",
-        "count": "23"
+        "count": "21"
       }
     ],
     "git": [
       {
         "formula": "git",
-        "count": "2,124"
+        "count": "2,102"
       },
       {
         "formula": "git --HEAD",
@@ -5032,7 +5026,7 @@
     "git-archive-all": [
       {
         "formula": "git-archive-all",
-        "count": "16"
+        "count": "17"
       }
     ],
     "git-bug": [
@@ -5047,12 +5041,6 @@
         "count": "1"
       }
     ],
-    "git-cola": [
-      {
-        "formula": "git-cola",
-        "count": "1"
-      }
-    ],
     "git-credential-manager": [
       {
         "formula": "git-credential-manager",
@@ -5062,25 +5050,25 @@
     "git-crypt": [
       {
         "formula": "git-crypt",
-        "count": "49"
+        "count": "52"
       }
     ],
     "git-delta": [
       {
         "formula": "git-delta",
-        "count": "138"
+        "count": "143"
       }
     ],
     "git-extras": [
       {
         "formula": "git-extras",
-        "count": "39"
+        "count": "47"
       }
     ],
     "git-filter-repo": [
       {
         "formula": "git-filter-repo",
-        "count": "62"
+        "count": "61"
       }
     ],
     "git-fixup": [
@@ -5092,19 +5080,19 @@
     "git-flow": [
       {
         "formula": "git-flow",
-        "count": "50"
+        "count": "55"
       }
     ],
     "git-flow-avh": [
       {
         "formula": "git-flow-avh",
-        "count": "31"
+        "count": "30"
       }
     ],
     "git-fresh": [
       {
         "formula": "git-fresh",
-        "count": "2"
+        "count": "1"
       }
     ],
     "git-ftp": [
@@ -5116,7 +5104,7 @@
     "git-gui": [
       {
         "formula": "git-gui",
-        "count": "20"
+        "count": "19"
       }
     ],
     "git-hooks": [
@@ -5140,7 +5128,7 @@
     "git-lfs": [
       {
         "formula": "git-lfs",
-        "count": "210"
+        "count": "211"
       }
     ],
     "git-now": [
@@ -5170,7 +5158,7 @@
     "git-quick-stats": [
       {
         "formula": "git-quick-stats",
-        "count": "10"
+        "count": "9"
       }
     ],
     "git-remote-codecommit": [
@@ -5194,7 +5182,7 @@
     "git-secret": [
       {
         "formula": "git-secret",
-        "count": "13"
+        "count": "12"
       }
     ],
     "git-secrets": [
@@ -5212,7 +5200,7 @@
     "git-sfdc-dev.master": [
       {
         "formula": "git-sfdc-dev.master",
-        "count": "42"
+        "count": "41"
       }
     ],
     "git-sfdc-dev.pcal.atomize": [
@@ -5315,12 +5303,6 @@
       {
         "formula": "git-sfdc-dev.pcal.gitdashc",
         "count": "12"
-      }
-    ],
-    "git-sfdc-dev.pcal.killdeadsynccode": [
-      {
-        "formula": "git-sfdc-dev.pcal.killdeadsynccode",
-        "count": "6"
       }
     ],
     "git-sfdc-dev.pcal.killsrc": [
@@ -5428,7 +5410,7 @@
     "git-sfdc-dev.pcal.resources": [
       {
         "formula": "git-sfdc-dev.pcal.resources",
-        "count": "2"
+        "count": "6"
       }
     ],
     "git-sfdc-dev.pcal.searchserverhotfix": [
@@ -5500,7 +5482,7 @@
     "git-when-merged": [
       {
         "formula": "git-when-merged",
-        "count": "4"
+        "count": "2"
       }
     ],
     "giter8": [
@@ -5524,13 +5506,13 @@
     "gitlab-runner": [
       {
         "formula": "gitlab-runner",
-        "count": "42"
+        "count": "43"
       }
     ],
     "gitleaks": [
       {
         "formula": "gitleaks",
-        "count": "338"
+        "count": "331"
       }
     ],
     "gitless": [
@@ -5554,7 +5536,7 @@
     "gitui": [
       {
         "formula": "gitui",
-        "count": "1"
+        "count": "2"
       }
     ],
     "gitup": [
@@ -5566,19 +5548,19 @@
     "gl2ps": [
       {
         "formula": "gl2ps",
-        "count": "17"
+        "count": "19"
       }
     ],
     "glade": [
       {
         "formula": "glade",
-        "count": "2"
+        "count": "1"
       }
     ],
     "glances": [
       {
         "formula": "glances",
-        "count": "85"
+        "count": "86"
       }
     ],
     "gleam": [
@@ -5590,19 +5572,19 @@
     "glew": [
       {
         "formula": "glew",
-        "count": "28"
+        "count": "31"
       }
     ],
     "glfw": [
       {
         "formula": "glfw",
-        "count": "32"
+        "count": "38"
       }
     ],
     "glib": [
       {
         "formula": "glib",
-        "count": "3,276"
+        "count": "3,264"
       }
     ],
     "glib-networking": [
@@ -5614,13 +5596,13 @@
     "glibc": [
       {
         "formula": "glibc",
-        "count": "708"
+        "count": "726"
       }
     ],
     "glibmm": [
       {
         "formula": "glibmm",
-        "count": "5"
+        "count": "4"
       }
     ],
     "glide": [
@@ -5638,37 +5620,37 @@
     "glm": [
       {
         "formula": "glm",
-        "count": "15"
+        "count": "19"
       }
     ],
     "global": [
       {
         "formula": "global",
-        "count": "17"
+        "count": "19"
       }
     ],
     "glog": [
       {
         "formula": "glog",
-        "count": "76"
+        "count": "77"
       }
     ],
     "glooctl": [
       {
         "formula": "glooctl",
-        "count": "2"
+        "count": "1"
       }
     ],
     "glow": [
       {
         "formula": "glow",
-        "count": "171"
+        "count": "161"
       }
     ],
     "glpk": [
       {
         "formula": "glpk",
-        "count": "10"
+        "count": "12"
       }
     ],
     "glslang": [
@@ -5701,6 +5683,12 @@
         "count": "1"
       }
     ],
+    "gmic": [
+      {
+        "formula": "gmic",
+        "count": "1"
+      }
+    ],
     "gmime": [
       {
         "formula": "gmime",
@@ -5710,13 +5698,13 @@
     "gmp": [
       {
         "formula": "gmp",
-        "count": "12,151"
+        "count": "12,169"
       }
     ],
     "gmt": [
       {
         "formula": "gmt",
-        "count": "4"
+        "count": "5"
       }
     ],
     "gnu-complexity": [
@@ -5746,13 +5734,13 @@
     "gnu-sed": [
       {
         "formula": "gnu-sed",
-        "count": "224"
+        "count": "233"
       }
     ],
     "gnu-tar": [
       {
         "formula": "gnu-tar",
-        "count": "58"
+        "count": "56"
       }
     ],
     "gnu-time": [
@@ -5788,7 +5776,7 @@
     "gnupg": [
       {
         "formula": "gnupg",
-        "count": "280"
+        "count": "285"
       }
     ],
     "gnupg@1.4": [
@@ -5800,7 +5788,7 @@
     "gnuplot": [
       {
         "formula": "gnuplot",
-        "count": "17"
+        "count": "18"
       }
     ],
     "gnuplot@4": [
@@ -5818,13 +5806,13 @@
     "gnutls": [
       {
         "formula": "gnutls",
-        "count": "1,084"
+        "count": "1,104"
       }
     ],
     "go": [
       {
         "formula": "go",
-        "count": "3,343"
+        "count": "3,307"
       },
       {
         "formula": "go --HEAD",
@@ -5834,7 +5822,7 @@
     "go-bindata": [
       {
         "formula": "go-bindata",
-        "count": "52"
+        "count": "55"
       }
     ],
     "go-jira": [
@@ -5852,7 +5840,7 @@
     "go-md2man": [
       {
         "formula": "go-md2man",
-        "count": "36"
+        "count": "38"
       }
     ],
     "go@1.11": [
@@ -5870,19 +5858,13 @@
     "go@1.13": [
       {
         "formula": "go@1.13",
-        "count": "69"
+        "count": "71"
       }
     ],
     "go@1.14": [
       {
         "formula": "go@1.14",
-        "count": "45"
-      }
-    ],
-    "go@1.15": [
-      {
-        "formula": "go@1.15",
-        "count": "1"
+        "count": "46"
       }
     ],
     "go@1.9": [
@@ -5904,7 +5886,7 @@
     "gobject-introspection": [
       {
         "formula": "gobject-introspection",
-        "count": "1,551"
+        "count": "1,547"
       }
     ],
     "gobuster": [
@@ -5928,7 +5910,7 @@
     "goenv": [
       {
         "formula": "goenv",
-        "count": "19"
+        "count": "17"
       },
       {
         "formula": "goenv --HEAD",
@@ -5944,19 +5926,19 @@
     "golang-migrate": [
       {
         "formula": "golang-migrate",
-        "count": "41"
+        "count": "42"
       }
     ],
     "golangci-lint": [
       {
         "formula": "golangci-lint",
-        "count": "261"
+        "count": "257"
       }
     ],
     "gollum": [
       {
         "formula": "gollum",
-        "count": "2"
+        "count": "4"
       }
     ],
     "gom": [
@@ -5968,7 +5950,7 @@
     "gomplate": [
       {
         "formula": "gomplate",
-        "count": "33"
+        "count": "32"
       }
     ],
     "goocanvas": [
@@ -6070,19 +6052,19 @@
     "govc": [
       {
         "formula": "govc",
-        "count": "4"
+        "count": "3"
       }
     ],
     "gowsdl": [
       {
         "formula": "gowsdl",
-        "count": "4"
+        "count": "3"
       }
     ],
     "gox": [
       {
         "formula": "gox",
-        "count": "59"
+        "count": "57"
       }
     ],
     "gpa": [
@@ -6100,19 +6082,19 @@
     "gpatch": [
       {
         "formula": "gpatch",
-        "count": "1,083"
+        "count": "1,059"
       }
     ],
     "gperf": [
       {
         "formula": "gperf",
-        "count": "1,639"
+        "count": "1,657"
       }
     ],
     "gperftools": [
       {
         "formula": "gperftools",
-        "count": "38"
+        "count": "37"
       }
     ],
     "gpgme": [
@@ -6136,7 +6118,7 @@
     "gpp": [
       {
         "formula": "gpp",
-        "count": "12"
+        "count": "14"
       }
     ],
     "gpredict": [
@@ -6166,7 +6148,7 @@
     "gradle": [
       {
         "formula": "gradle",
-        "count": "285"
+        "count": "287"
       }
     ],
     "gradle-completion": [
@@ -6196,19 +6178,19 @@
     "graphene": [
       {
         "formula": "graphene",
-        "count": "13"
+        "count": "12"
       }
     ],
     "graphicsmagick": [
       {
         "formula": "graphicsmagick",
-        "count": "34"
+        "count": "32"
       }
     ],
     "graphite2": [
       {
         "formula": "graphite2",
-        "count": "864"
+        "count": "877"
       }
     ],
     "graphql-cli": [
@@ -6220,13 +6202,13 @@
     "graphviz": [
       {
         "formula": "graphviz",
-        "count": "180"
+        "count": "187"
       }
     ],
     "grc": [
       {
         "formula": "grc",
-        "count": "55"
+        "count": "52"
       }
     ],
     "grep": [
@@ -6244,19 +6226,19 @@
     "grex": [
       {
         "formula": "grex",
-        "count": "9"
+        "count": "10"
       }
     ],
     "grip": [
       {
         "formula": "grip",
-        "count": "16"
+        "count": "17"
       }
     ],
     "groff": [
       {
         "formula": "groff",
-        "count": "773"
+        "count": "758"
       }
     ],
     "gromacs": [
@@ -6280,7 +6262,7 @@
     "groovy": [
       {
         "formula": "groovy",
-        "count": "22"
+        "count": "24"
       }
     ],
     "groovysdk": [
@@ -6298,7 +6280,7 @@
     "grpc": [
       {
         "formula": "grpc",
-        "count": "68"
+        "count": "72"
       },
       {
         "formula": "grpc --HEAD",
@@ -6326,7 +6308,7 @@
     "grv": [
       {
         "formula": "grv",
-        "count": "5"
+        "count": "7"
       }
     ],
     "gsar": [
@@ -6377,34 +6359,28 @@
         "count": "2"
       }
     ],
-    "gst-libav": [
-      {
-        "formula": "gst-libav",
-        "count": "1"
-      }
-    ],
     "gst-plugins-base": [
       {
         "formula": "gst-plugins-base",
-        "count": "12"
+        "count": "11"
       }
     ],
     "gstreamer": [
       {
         "formula": "gstreamer",
-        "count": "15"
+        "count": "14"
       }
     ],
     "gti": [
       {
         "formula": "gti",
-        "count": "3"
+        "count": "4"
       }
     ],
     "gtk+": [
       {
         "formula": "gtk+",
-        "count": "162"
+        "count": "159"
       }
     ],
     "gtk+3": [
@@ -6416,7 +6392,7 @@
     "gtk-doc": [
       {
         "formula": "gtk-doc",
-        "count": "13"
+        "count": "14"
       }
     ],
     "gtk-gnutella": [
@@ -6470,7 +6446,7 @@
     "gts": [
       {
         "formula": "gts",
-        "count": "148"
+        "count": "150"
       }
     ],
     "guetzli": [
@@ -6488,19 +6464,19 @@
     "guile": [
       {
         "formula": "guile",
-        "count": "1,044"
+        "count": "1,057"
       }
     ],
     "guile@2": [
       {
         "formula": "guile@2",
-        "count": "930"
+        "count": "945"
       }
     ],
     "gulp-cli": [
       {
         "formula": "gulp-cli",
-        "count": "7"
+        "count": "9"
       }
     ],
     "gws": [
@@ -6512,7 +6488,13 @@
     "gzip": [
       {
         "formula": "gzip",
-        "count": "31"
+        "count": "30"
+      }
+    ],
+    "h3": [
+      {
+        "formula": "h3",
+        "count": "1"
       }
     ],
     "hackrf": [
@@ -6524,7 +6506,7 @@
     "hadolint": [
       {
         "formula": "hadolint",
-        "count": "118"
+        "count": "116"
       }
     ],
     "hadoop": [
@@ -6548,7 +6530,7 @@
     "harfbuzz": [
       {
         "formula": "harfbuzz",
-        "count": "967"
+        "count": "982"
       }
     ],
     "hashcat": [
@@ -6570,7 +6552,7 @@
     "haskell-stack": [
       {
         "formula": "haskell-stack",
-        "count": "50"
+        "count": "52"
       }
     ],
     "hasura-cli": [
@@ -6582,7 +6564,7 @@
     "hcloud": [
       {
         "formula": "hcloud",
-        "count": "26"
+        "count": "25"
       }
     ],
     "hcxtools": [
@@ -6594,13 +6576,13 @@
     "hdf5": [
       {
         "formula": "hdf5",
-        "count": "204"
+        "count": "205"
       }
     ],
     "hdf5-mpi": [
       {
         "formula": "hdf5-mpi",
-        "count": "9"
+        "count": "10"
       }
     ],
     "hdf5@1.10": [
@@ -6618,25 +6600,25 @@
     "hello": [
       {
         "formula": "hello",
-        "count": "2,425"
+        "count": "2,421"
       }
     ],
     "helm": [
       {
         "formula": "helm",
-        "count": "5,004"
+        "count": "5,005"
       }
     ],
     "helm@2": [
       {
         "formula": "helm@2",
-        "count": "100"
+        "count": "99"
       }
     ],
     "helmfile": [
       {
         "formula": "helmfile",
-        "count": "156"
+        "count": "154"
       }
     ],
     "helmsman": [
@@ -6648,18 +6630,12 @@
     "help2man": [
       {
         "formula": "help2man",
-        "count": "179"
+        "count": "176"
       }
     ],
     "hexcurse": [
       {
         "formula": "hexcurse",
-        "count": "1"
-      }
-    ],
-    "hexedit": [
-      {
-        "formula": "hexedit",
         "count": "1"
       }
     ],
@@ -6672,13 +6648,13 @@
     "hey": [
       {
         "formula": "hey",
-        "count": "34"
+        "count": "30"
       }
     ],
     "hicolor-icon-theme": [
       {
         "formula": "hicolor-icon-theme",
-        "count": "139"
+        "count": "138"
       }
     ],
     "hidapi": [
@@ -6696,25 +6672,31 @@
     "hiredis": [
       {
         "formula": "hiredis",
-        "count": "2"
+        "count": "1"
       }
     ],
     "hivemind": [
       {
         "formula": "hivemind",
-        "count": "6"
+        "count": "7"
       }
     ],
     "hledger": [
       {
         "formula": "hledger",
-        "count": "19"
+        "count": "21"
       }
     ],
     "hmmer": [
       {
         "formula": "hmmer",
         "count": "31"
+      }
+    ],
+    "homeshick": [
+      {
+        "formula": "homeshick",
+        "count": "1"
       }
     ],
     "homeworlds": [
@@ -6744,7 +6726,7 @@
     "hr": [
       {
         "formula": "hr",
-        "count": "47"
+        "count": "46"
       }
     ],
     "hstr": [
@@ -6762,25 +6744,25 @@
     "htop": [
       {
         "formula": "htop",
-        "count": "443"
+        "count": "445"
       }
     ],
     "htslib": [
       {
         "formula": "htslib",
-        "count": "165"
+        "count": "163"
       }
     ],
     "http-server": [
       {
         "formula": "http-server",
-        "count": "13"
+        "count": "14"
       }
     ],
     "httpd": [
       {
         "formula": "httpd",
-        "count": "76"
+        "count": "72"
       }
     ],
     "httpdiff": [
@@ -6804,7 +6786,7 @@
     "httpie": [
       {
         "formula": "httpie",
-        "count": "290"
+        "count": "285"
       },
       {
         "formula": "httpie --HEAD",
@@ -6829,6 +6811,12 @@
         "count": "4"
       }
     ],
+    "httpx": [
+      {
+        "formula": "httpx",
+        "count": "1"
+      }
+    ],
     "httrack": [
       {
         "formula": "httrack",
@@ -6838,19 +6826,25 @@
     "hub": [
       {
         "formula": "hub",
-        "count": "324"
+        "count": "320"
       }
     ],
     "hugo": [
       {
         "formula": "hugo",
-        "count": "1,064"
+        "count": "1,069"
+      }
+    ],
+    "hunspell": [
+      {
+        "formula": "hunspell",
+        "count": "1"
       }
     ],
     "hwloc": [
       {
         "formula": "hwloc",
-        "count": "812"
+        "count": "824"
       }
     ],
     "hydra": [
@@ -6862,7 +6856,7 @@
     "hyperfine": [
       {
         "formula": "hyperfine",
-        "count": "47"
+        "count": "48"
       }
     ],
     "hyperspec": [
@@ -6910,13 +6904,13 @@
     "iam-policy-json-to-terraform": [
       {
         "formula": "iam-policy-json-to-terraform",
-        "count": "2"
+        "count": "3"
       }
     ],
     "iamy": [
       {
         "formula": "iamy",
-        "count": "2"
+        "count": "1"
       }
     ],
     "icarus-verilog": [
@@ -6934,13 +6928,13 @@
     "icu4c": [
       {
         "formula": "icu4c",
-        "count": "4,295"
+        "count": "4,335"
       }
     ],
     "ideviceinstaller": [
       {
         "formula": "ideviceinstaller",
-        "count": "22"
+        "count": "21"
       },
       {
         "formula": "ideviceinstaller --HEAD",
@@ -6986,25 +6980,25 @@
     "igv": [
       {
         "formula": "igv",
-        "count": "12"
+        "count": "11"
       }
     ],
     "ilmbase": [
       {
         "formula": "ilmbase",
-        "count": "296"
+        "count": "292"
       }
     ],
     "imagemagick": [
       {
         "formula": "imagemagick",
-        "count": "567"
+        "count": "585"
       }
     ],
     "imagemagick@6": [
       {
         "formula": "imagemagick@6",
-        "count": "86"
+        "count": "88"
       }
     ],
     "imagesnap": [
@@ -7034,7 +7028,7 @@
     "include-what-you-use": [
       {
         "formula": "include-what-you-use",
-        "count": "3"
+        "count": "2"
       }
     ],
     "inetutils": [
@@ -7088,7 +7082,7 @@
     "intltool": [
       {
         "formula": "intltool",
-        "count": "316"
+        "count": "303"
       }
     ],
     "inxi": [
@@ -7140,7 +7134,7 @@
     "iperf3": [
       {
         "formula": "iperf3",
-        "count": "14"
+        "count": "17"
       }
     ],
     "ipfs": [
@@ -7176,7 +7170,7 @@
     "ipython": [
       {
         "formula": "ipython",
-        "count": "79"
+        "count": "82"
       }
     ],
     "ired": [
@@ -7188,25 +7182,25 @@
     "irrlicht": [
       {
         "formula": "irrlicht",
-        "count": "1"
+        "count": "3"
       }
     ],
     "irssi": [
       {
         "formula": "irssi",
-        "count": "5"
+        "count": "6"
       }
     ],
     "isl": [
       {
         "formula": "isl",
-        "count": "1,162"
+        "count": "1,180"
       }
     ],
     "isl@0.18": [
       {
         "formula": "isl@0.18",
-        "count": "10,695"
+        "count": "10,699"
       }
     ],
     "iso-codes": [
@@ -7224,7 +7218,7 @@
     "istioctl": [
       {
         "formula": "istioctl",
-        "count": "221"
+        "count": "209"
       }
     ],
     "isync": [
@@ -7242,7 +7236,7 @@
     "itstool": [
       {
         "formula": "itstool",
-        "count": "125"
+        "count": "113"
       }
     ],
     "jabba": [
@@ -7278,19 +7272,19 @@
     "jansson": [
       {
         "formula": "jansson",
-        "count": "748"
+        "count": "743"
       }
     ],
     "jasper": [
       {
         "formula": "jasper",
-        "count": "583"
+        "count": "591"
       }
     ],
     "jbig2enc": [
       {
         "formula": "jbig2enc",
-        "count": "7"
+        "count": "8"
       }
     ],
     "jc": [
@@ -7326,13 +7320,13 @@
     "jemalloc": [
       {
         "formula": "jemalloc",
-        "count": "518"
+        "count": "506"
       }
     ],
     "jenkins": [
       {
         "formula": "jenkins",
-        "count": "23"
+        "count": "22"
       }
     ],
     "jenkins-job-builder": [
@@ -7350,13 +7344,13 @@
     "jenkins-slave": [
       {
         "formula": "jenkins-slave",
-        "count": "48"
+        "count": "17"
       }
     ],
     "jenv": [
       {
         "formula": "jenv",
-        "count": "74"
+        "count": "73"
       }
     ],
     "jetty": [
@@ -7368,7 +7362,7 @@
     "jfrog-cli": [
       {
         "formula": "jfrog-cli",
-        "count": "58"
+        "count": "55"
       }
     ],
     "jhipster": [
@@ -7380,7 +7374,7 @@
     "jid": [
       {
         "formula": "jid",
-        "count": "7"
+        "count": "6"
       }
     ],
     "jinja2-cli": [
@@ -7392,7 +7386,7 @@
     "jmeter": [
       {
         "formula": "jmeter",
-        "count": "29"
+        "count": "30"
       }
     ],
     "jnettop": [
@@ -7404,7 +7398,7 @@
     "jo": [
       {
         "formula": "jo",
-        "count": "3"
+        "count": "2"
       }
     ],
     "joe": [
@@ -7434,7 +7428,7 @@
     "joplin": [
       {
         "formula": "joplin",
-        "count": "1"
+        "count": "2"
       }
     ],
     "joplin-cli": [
@@ -7470,7 +7464,7 @@
     "jpeg": [
       {
         "formula": "jpeg",
-        "count": "1,787"
+        "count": "1,792"
       }
     ],
     "jpeg-turbo": [
@@ -7494,7 +7488,7 @@
     "jq": [
       {
         "formula": "jq",
-        "count": "1,291"
+        "count": "1,283"
       },
       {
         "formula": "jq --HEAD",
@@ -7504,7 +7498,7 @@
     "jrnl": [
       {
         "formula": "jrnl",
-        "count": "10"
+        "count": "8"
       }
     ],
     "jsmin": [
@@ -7516,7 +7510,7 @@
     "json-c": [
       {
         "formula": "json-c",
-        "count": "770"
+        "count": "764"
       }
     ],
     "json-fortran": [
@@ -7540,7 +7534,7 @@
     "jsoncpp": [
       {
         "formula": "jsoncpp",
-        "count": "8"
+        "count": "9"
       }
     ],
     "jsonlint": [
@@ -7552,7 +7546,7 @@
     "jsonnet": [
       {
         "formula": "jsonnet",
-        "count": "55"
+        "count": "54"
       }
     ],
     "jsonnet-bundler": [
@@ -7606,19 +7600,19 @@
     "jupyterlab": [
       {
         "formula": "jupyterlab",
-        "count": "59"
+        "count": "61"
       }
     ],
     "just": [
       {
         "formula": "just",
-        "count": "20"
+        "count": "19"
       }
     ],
     "jvmtop": [
       {
         "formula": "jvmtop",
-        "count": "24"
+        "count": "23"
       }
     ],
     "jxrlib": [
@@ -7636,25 +7630,25 @@
     "k3d": [
       {
         "formula": "k3d",
-        "count": "140"
+        "count": "139"
       }
     ],
     "k6": [
       {
         "formula": "k6",
-        "count": "13"
+        "count": "19"
       }
     ],
     "k9s": [
       {
         "formula": "k9s",
-        "count": "537"
+        "count": "539"
       }
     ],
     "kafka": [
       {
         "formula": "kafka",
-        "count": "11"
+        "count": "12"
       }
     ],
     "kafkacat": [
@@ -7684,7 +7678,7 @@
     "kamel": [
       {
         "formula": "kamel",
-        "count": "5"
+        "count": "4"
       }
     ],
     "kapacitor": [
@@ -7720,7 +7714,13 @@
     "khard": [
       {
         "formula": "khard",
-        "count": "4"
+        "count": "5"
+      }
+    ],
+    "kibana": [
+      {
+        "formula": "kibana",
+        "count": "1"
       }
     ],
     "kim-api": [
@@ -7732,7 +7732,7 @@
     "kind": [
       {
         "formula": "kind",
-        "count": "188"
+        "count": "187"
       },
       {
         "formula": "kind --HEAD",
@@ -7760,7 +7760,7 @@
     "knock": [
       {
         "formula": "knock",
-        "count": "6"
+        "count": "5"
       }
     ],
     "kobalt": [
@@ -7772,7 +7772,7 @@
     "kompose": [
       {
         "formula": "kompose",
-        "count": "11"
+        "count": "9"
       }
     ],
     "kondo": [
@@ -7784,13 +7784,13 @@
     "kops": [
       {
         "formula": "kops",
-        "count": "98"
+        "count": "87"
       }
     ],
     "kotlin": [
       {
         "formula": "kotlin",
-        "count": "42"
+        "count": "44"
       }
     ],
     "kpcli": [
@@ -7808,13 +7808,13 @@
     "krb5": [
       {
         "formula": "krb5",
-        "count": "1,556"
+        "count": "1,555"
       }
     ],
     "krew": [
       {
         "formula": "krew",
-        "count": "149"
+        "count": "135"
       }
     ],
     "ksh": [
@@ -7826,7 +7826,7 @@
     "ktlint": [
       {
         "formula": "ktlint",
-        "count": "54"
+        "count": "55"
       }
     ],
     "ktmpl": [
@@ -7844,7 +7844,7 @@
     "kube-ps1": [
       {
         "formula": "kube-ps1",
-        "count": "83"
+        "count": "82"
       },
       {
         "formula": "kube-ps1 --HEAD",
@@ -7872,7 +7872,7 @@
     "kubectx": [
       {
         "formula": "kubectx",
-        "count": "509"
+        "count": "502"
       }
     ],
     "kubeless": [
@@ -7890,7 +7890,7 @@
     "kubernetes-cli": [
       {
         "formula": "kubernetes-cli",
-        "count": "4,834"
+        "count": "4,863"
       }
     ],
     "kubernetes-helm": [
@@ -7902,19 +7902,19 @@
     "kubeseal": [
       {
         "formula": "kubeseal",
-        "count": "84"
+        "count": "83"
       }
     ],
     "kubespy": [
       {
         "formula": "kubespy",
-        "count": "14"
+        "count": "13"
       }
     ],
     "kubie": [
       {
         "formula": "kubie",
-        "count": "15"
+        "count": "12"
       }
     ],
     "kumactl": [
@@ -7926,13 +7926,13 @@
     "kustomize": [
       {
         "formula": "kustomize",
-        "count": "245"
+        "count": "243"
       }
     ],
     "kyma-cli": [
       {
         "formula": "kyma-cli",
-        "count": "4"
+        "count": "5"
       }
     ],
     "kytea": [
@@ -7956,7 +7956,7 @@
     "lame": [
       {
         "formula": "lame",
-        "count": "375"
+        "count": "376"
       }
     ],
     "lammps": [
@@ -7980,13 +7980,13 @@
     "lapack": [
       {
         "formula": "lapack",
-        "count": "15"
+        "count": "12"
       }
     ],
     "lastpass-cli": [
       {
         "formula": "lastpass-cli",
-        "count": "29"
+        "count": "31"
       }
     ],
     "latex2rtf": [
@@ -8016,13 +8016,13 @@
     "lazydocker": [
       {
         "formula": "lazydocker",
-        "count": "91"
+        "count": "92"
       }
     ],
     "lazygit": [
       {
         "formula": "lazygit",
-        "count": "148"
+        "count": "146"
       }
     ],
     "lbzip2": [
@@ -8040,13 +8040,13 @@
     "ldc": [
       {
         "formula": "ldc",
-        "count": "3"
+        "count": "2"
       }
     ],
     "ldns": [
       {
         "formula": "ldns",
-        "count": "73"
+        "count": "70"
       }
     ],
     "leakcanary-shark": [
@@ -8058,7 +8058,7 @@
     "ledger": [
       {
         "formula": "ledger",
-        "count": "13"
+        "count": "14"
       }
     ],
     "leela-zero": [
@@ -8082,13 +8082,13 @@
     "leiningen": [
       {
         "formula": "leiningen",
-        "count": "57"
+        "count": "56"
       }
     ],
     "leptonica": [
       {
         "formula": "leptonica",
-        "count": "273"
+        "count": "275"
       }
     ],
     "lerna": [
@@ -8118,19 +8118,19 @@
     "leveldb": [
       {
         "formula": "leveldb",
-        "count": "28"
+        "count": "27"
       }
     ],
     "lf": [
       {
         "formula": "lf",
-        "count": "30"
+        "count": "31"
       }
     ],
     "lftp": [
       {
         "formula": "lftp",
-        "count": "20"
+        "count": "19"
       }
     ],
     "lha": [
@@ -8148,7 +8148,7 @@
     "libaio": [
       {
         "formula": "libaio",
-        "count": "155"
+        "count": "141"
       }
     ],
     "libao": [
@@ -8166,13 +8166,13 @@
     "libass": [
       {
         "formula": "libass",
-        "count": "340"
+        "count": "341"
       }
     ],
     "libassuan": [
       {
         "formula": "libassuan",
-        "count": "305"
+        "count": "307"
       }
     ],
     "libatomic_ops": [
@@ -8208,7 +8208,7 @@
     "libbluray": [
       {
         "formula": "libbluray",
-        "count": "316"
+        "count": "314"
       }
     ],
     "libbs2b": [
@@ -8220,7 +8220,7 @@
     "libbsd": [
       {
         "formula": "libbsd",
-        "count": "6,812"
+        "count": "6,835"
       }
     ],
     "libbtbb": [
@@ -8244,13 +8244,13 @@
     "libcap": [
       {
         "formula": "libcap",
-        "count": "1,037"
+        "count": "1,039"
       }
     ],
     "libcbor": [
       {
         "formula": "libcbor",
-        "count": "62"
+        "count": "64"
       }
     ],
     "libccd": [
@@ -8262,25 +8262,25 @@
     "libcerf": [
       {
         "formula": "libcerf",
-        "count": "46"
+        "count": "47"
       }
     ],
     "libconfig": [
       {
         "formula": "libconfig",
-        "count": "5"
+        "count": "4"
       }
     ],
     "libcouchbase": [
       {
         "formula": "libcouchbase",
-        "count": "2"
+        "count": "3"
       }
     ],
     "libcouchbase@2": [
       {
         "formula": "libcouchbase@2",
-        "count": "1"
+        "count": "3"
       }
     ],
     "libcpuid": [
@@ -8316,31 +8316,31 @@
     "libdap": [
       {
         "formula": "libdap",
-        "count": "70"
+        "count": "72"
       }
     ],
     "libde265": [
       {
         "formula": "libde265",
-        "count": "349"
+        "count": "355"
       }
     ],
     "libdmx": [
       {
         "formula": "libdmx",
-        "count": "29"
+        "count": "28"
       }
     ],
     "libdnet": [
       {
         "formula": "libdnet",
-        "count": "29"
+        "count": "30"
       }
     ],
     "libdrm": [
       {
         "formula": "libdrm",
-        "count": "318"
+        "count": "296"
       }
     ],
     "libdvdcss": [
@@ -8352,25 +8352,25 @@
     "libebml": [
       {
         "formula": "libebml",
-        "count": "10"
+        "count": "9"
       }
     ],
     "libebur128": [
       {
         "formula": "libebur128",
-        "count": "1"
+        "count": "2"
       }
     ],
     "libedit": [
       {
         "formula": "libedit",
-        "count": "1,621"
+        "count": "1,605"
       }
     ],
     "libelf": [
       {
         "formula": "libelf",
-        "count": "718"
+        "count": "712"
       }
     ],
     "libepoxy": [
@@ -8388,37 +8388,43 @@
     "libev": [
       {
         "formula": "libev",
-        "count": "495"
+        "count": "483"
       }
     ],
     "libevent": [
       {
         "formula": "libevent",
-        "count": "2,570"
+        "count": "2,588"
+      }
+    ],
+    "libewf": [
+      {
+        "formula": "libewf",
+        "count": "1"
       }
     ],
     "libexif": [
       {
         "formula": "libexif",
-        "count": "26"
+        "count": "25"
       }
     ],
     "libfabric": [
       {
         "formula": "libfabric",
-        "count": "12"
+        "count": "13"
       }
     ],
     "libffi": [
       {
         "formula": "libffi",
-        "count": "22,603"
+        "count": "22,656"
       }
     ],
     "libfido2": [
       {
         "formula": "libfido2",
-        "count": "67"
+        "count": "69"
       }
     ],
     "libfixbuf": [
@@ -8430,7 +8436,7 @@
     "libfontenc": [
       {
         "formula": "libfontenc",
-        "count": "27"
+        "count": "26"
       }
     ],
     "libfs": [
@@ -8448,13 +8454,13 @@
     "libftdi0": [
       {
         "formula": "libftdi0",
-        "count": "9"
+        "count": "8"
       }
     ],
     "libfuse": [
       {
         "formula": "libfuse",
-        "count": "54"
+        "count": "53"
       }
     ],
     "libgccjit": [
@@ -8466,13 +8472,13 @@
     "libgcrypt": [
       {
         "formula": "libgcrypt",
-        "count": "515"
+        "count": "512"
       }
     ],
     "libgeotiff": [
       {
         "formula": "libgeotiff",
-        "count": "58"
+        "count": "60"
       }
     ],
     "libghthash": [
@@ -8484,7 +8490,7 @@
     "libgit2": [
       {
         "formula": "libgit2",
-        "count": "309"
+        "count": "312"
       }
     ],
     "libgnt": [
@@ -8496,7 +8502,7 @@
     "libgpg-error": [
       {
         "formula": "libgpg-error",
-        "count": "527"
+        "count": "535"
       }
     ],
     "libgphoto2": [
@@ -8512,7 +8518,7 @@
     "libgsf": [
       {
         "formula": "libgsf",
-        "count": "20"
+        "count": "19"
       }
     ],
     "libgsm": [
@@ -8524,7 +8530,7 @@
     "libgxps": [
       {
         "formula": "libgxps",
-        "count": "1"
+        "count": "3"
       }
     ],
     "libharu": [
@@ -8536,19 +8542,19 @@
     "libheif": [
       {
         "formula": "libheif",
-        "count": "347"
+        "count": "362"
       }
     ],
     "libhid": [
       {
         "formula": "libhid",
-        "count": "9"
+        "count": "8"
       }
     ],
     "libice": [
       {
         "formula": "libice",
-        "count": "1,579"
+        "count": "1,533"
       }
     ],
     "libid3tag": [
@@ -8560,41 +8566,47 @@
     "libidn": [
       {
         "formula": "libidn",
-        "count": "1,039"
+        "count": "1,028"
       }
     ],
     "libidn2": [
       {
         "formula": "libidn2",
-        "count": "1,510"
+        "count": "1,526"
       }
     ],
     "libimagequant": [
       {
         "formula": "libimagequant",
-        "count": "14"
+        "count": "13"
       }
     ],
     "libimobiledevice": [
       {
         "formula": "libimobiledevice",
-        "count": "42"
+        "count": "48"
       },
       {
         "formula": "libimobiledevice --HEAD",
-        "count": "21"
+        "count": "20"
+      }
+    ],
+    "libjwt": [
+      {
+        "formula": "libjwt",
+        "count": "6"
       }
     ],
     "libksba": [
       {
         "formula": "libksba",
-        "count": "233"
+        "count": "240"
       }
     ],
     "liblqr": [
       {
         "formula": "liblqr",
-        "count": "245"
+        "count": "240"
       }
     ],
     "libltc": [
@@ -8618,25 +8630,25 @@
     "libmagic": [
       {
         "formula": "libmagic",
-        "count": "164"
+        "count": "162"
       }
     ],
     "libmatio": [
       {
         "formula": "libmatio",
-        "count": "16"
+        "count": "15"
       }
     ],
     "libmatroska": [
       {
         "formula": "libmatroska",
-        "count": "10"
+        "count": "9"
       }
     ],
     "libmaxminddb": [
       {
         "formula": "libmaxminddb",
-        "count": "27"
+        "count": "26"
       }
     ],
     "libmemcached": [
@@ -8648,7 +8660,7 @@
     "libmetalink": [
       {
         "formula": "libmetalink",
-        "count": "438"
+        "count": "425"
       }
     ],
     "libmicrohttpd": [
@@ -8666,7 +8678,7 @@
     "libmms": [
       {
         "formula": "libmms",
-        "count": "15"
+        "count": "13"
       }
     ],
     "libmnl": [
@@ -8684,7 +8696,7 @@
     "libmpc": [
       {
         "formula": "libmpc",
-        "count": "12,650"
+        "count": "12,593"
       }
     ],
     "libmpdclient": [
@@ -8744,7 +8756,7 @@
     "libnsl": [
       {
         "formula": "libnsl",
-        "count": "576"
+        "count": "577"
       }
     ],
     "libogg": [
@@ -8756,7 +8768,7 @@
     "libomp": [
       {
         "formula": "libomp",
-        "count": "452"
+        "count": "445"
       }
     ],
     "libopenmpt": [
@@ -8768,7 +8780,7 @@
     "libopusenc": [
       {
         "formula": "libopusenc",
-        "count": "5"
+        "count": "3"
       }
     ],
     "liboqs": [
@@ -8786,13 +8798,13 @@
     "libpcap": [
       {
         "formula": "libpcap",
-        "count": "42"
+        "count": "41"
       }
     ],
     "libpciaccess": [
       {
         "formula": "libpciaccess",
-        "count": "417"
+        "count": "398"
       }
     ],
     "libpeas": [
@@ -8804,35 +8816,31 @@
     "libplist": [
       {
         "formula": "libplist",
-        "count": "116"
-      },
-      {
-        "formula": "libplist --HEAD",
-        "count": "1"
+        "count": "118"
       }
     ],
     "libpng": [
       {
         "formula": "libpng",
-        "count": "2,926"
+        "count": "2,956"
       }
     ],
     "libpq": [
       {
         "formula": "libpq",
-        "count": "604"
+        "count": "616"
       }
     ],
     "libprelude": [
       {
         "formula": "libprelude",
-        "count": "107"
+        "count": "108"
       }
     ],
     "libproxy": [
       {
         "formula": "libproxy",
-        "count": "230"
+        "count": "232"
       }
     ],
     "libpsl": [
@@ -8844,13 +8852,13 @@
     "libpthread-stubs": [
       {
         "formula": "libpthread-stubs",
-        "count": "2,063"
+        "count": "1,991"
       }
     ],
     "libpulsar": [
       {
         "formula": "libpulsar",
-        "count": "3"
+        "count": "4"
       }
     ],
     "libquvi": [
@@ -8874,7 +8882,7 @@
     "librdkafka": [
       {
         "formula": "librdkafka",
-        "count": "41"
+        "count": "42"
       }
     ],
     "libreadline-java": [
@@ -8892,7 +8900,7 @@
     "libressl": [
       {
         "formula": "libressl",
-        "count": "17"
+        "count": "16"
       }
     ],
     "librevenge": [
@@ -8904,13 +8912,13 @@
     "librsvg": [
       {
         "formula": "librsvg",
-        "count": "72"
+        "count": "69"
       }
     ],
     "librsync": [
       {
         "formula": "librsync",
-        "count": "4"
+        "count": "5"
       }
     ],
     "librtlsdr": [
@@ -8922,7 +8930,7 @@
     "libsamplerate": [
       {
         "formula": "libsamplerate",
-        "count": "303"
+        "count": "302"
       }
     ],
     "libsasl2": [
@@ -8934,13 +8942,13 @@
     "libsass": [
       {
         "formula": "libsass",
-        "count": "2"
+        "count": "1"
       }
     ],
     "libscrypt": [
       {
         "formula": "libscrypt",
-        "count": "18"
+        "count": "19"
       }
     ],
     "libsearpc": [
@@ -8952,19 +8960,19 @@
     "libseccomp": [
       {
         "formula": "libseccomp",
-        "count": "2"
+        "count": "1"
       }
     ],
     "libsecret": [
       {
         "formula": "libsecret",
-        "count": "397"
+        "count": "400"
       }
     ],
     "libserdes": [
       {
         "formula": "libserdes",
-        "count": "25"
+        "count": "24"
       }
     ],
     "libserialport": [
@@ -8982,19 +8990,19 @@
     "libsigc++": [
       {
         "formula": "libsigc++",
-        "count": "2"
+        "count": "3"
       }
     ],
     "libsigc++@2": [
       {
         "formula": "libsigc++@2",
-        "count": "12"
+        "count": "13"
       }
     ],
     "libsigsegv": [
       {
         "formula": "libsigsegv",
-        "count": "17"
+        "count": "18"
       }
     ],
     "libsixel": [
@@ -9006,25 +9014,25 @@
     "libsm": [
       {
         "formula": "libsm",
-        "count": "1,535"
+        "count": "1,489"
       }
     ],
     "libsmi": [
       {
         "formula": "libsmi",
-        "count": "22"
+        "count": "21"
       }
     ],
     "libsndfile": [
       {
         "formula": "libsndfile",
-        "count": "684"
+        "count": "694"
       }
     ],
     "libsodium": [
       {
         "formula": "libsodium",
-        "count": "274"
+        "count": "272"
       }
     ],
     "libsoundio": [
@@ -9042,19 +9050,19 @@
     "libsoxr": [
       {
         "formula": "libsoxr",
-        "count": "506"
+        "count": "509"
       }
     ],
     "libspatialite": [
       {
         "formula": "libspatialite",
-        "count": "56"
+        "count": "59"
       }
     ],
     "libspiro": [
       {
         "formula": "libspiro",
-        "count": "26"
+        "count": "25"
       }
     ],
     "libspng": [
@@ -9066,13 +9074,13 @@
     "libssh": [
       {
         "formula": "libssh",
-        "count": "166"
+        "count": "173"
       }
     ],
     "libssh2": [
       {
         "formula": "libssh2",
-        "count": "1,095"
+        "count": "1,071"
       }
     ],
     "libstfl": [
@@ -9090,19 +9098,19 @@
     "libtasn1": [
       {
         "formula": "libtasn1",
-        "count": "931"
+        "count": "946"
       }
     ],
     "libtecla": [
       {
         "formula": "libtecla",
-        "count": "14"
+        "count": "15"
       }
     ],
     "libtermkey": [
       {
         "formula": "libtermkey",
-        "count": "446"
+        "count": "449"
       }
     ],
     "libtextcat": [
@@ -9114,7 +9122,7 @@
     "libtiff": [
       {
         "formula": "libtiff",
-        "count": "1,440"
+        "count": "1,442"
       }
     ],
     "libtirpc": [
@@ -9126,7 +9134,7 @@
     "libtool": [
       {
         "formula": "libtool",
-        "count": "2,353"
+        "count": "2,373"
       }
     ],
     "libtorch": [
@@ -9138,7 +9146,7 @@
     "libtorrent-rakshasa": [
       {
         "formula": "libtorrent-rakshasa",
-        "count": "4"
+        "count": "3"
       }
     ],
     "libtorrent-rasterbar": [
@@ -9150,13 +9158,13 @@
     "libuninameslist": [
       {
         "formula": "libuninameslist",
-        "count": "25"
+        "count": "24"
       }
     ],
     "libunistring": [
       {
         "formula": "libunistring",
-        "count": "1,516"
+        "count": "1,529"
       }
     ],
     "libupnp": [
@@ -9174,17 +9182,17 @@
     "libusb-compat": [
       {
         "formula": "libusb-compat",
-        "count": "22"
+        "count": "21"
       }
     ],
     "libusbmuxd": [
       {
         "formula": "libusbmuxd",
-        "count": "99"
+        "count": "102"
       },
       {
         "formula": "libusbmuxd --HEAD",
-        "count": "14"
+        "count": "13"
       }
     ],
     "libusrsctp": [
@@ -9196,7 +9204,7 @@
     "libuv": [
       {
         "formula": "libuv",
-        "count": "790"
+        "count": "833"
       },
       {
         "formula": "libuv --HEAD",
@@ -9206,19 +9214,19 @@
     "libvidstab": [
       {
         "formula": "libvidstab",
-        "count": "304"
+        "count": "303"
       }
     ],
     "libvmaf": [
       {
         "formula": "libvmaf",
-        "count": "19"
+        "count": "20"
       }
     ],
     "libvncserver": [
       {
         "formula": "libvncserver",
-        "count": "3"
+        "count": "2"
       }
     ],
     "libvo-aacenc": [
@@ -9230,25 +9238,25 @@
     "libvorbis": [
       {
         "formula": "libvorbis",
-        "count": "641"
+        "count": "642"
       }
     ],
     "libvpx": [
       {
         "formula": "libvpx",
-        "count": "376"
+        "count": "375"
       }
     ],
     "libvterm": [
       {
         "formula": "libvterm",
-        "count": "563"
+        "count": "564"
       }
     ],
     "libwebsockets": [
       {
         "formula": "libwebsockets",
-        "count": "28"
+        "count": "26"
       }
     ],
     "libwpd": [
@@ -9260,19 +9268,19 @@
     "libx11": [
       {
         "formula": "libx11",
-        "count": "2,126"
+        "count": "2,042"
       }
     ],
     "libxau": [
       {
         "formula": "libxau",
-        "count": "2,090"
+        "count": "2,019"
       }
     ],
     "libxaw": [
       {
         "formula": "libxaw",
-        "count": "46"
+        "count": "45"
       }
     ],
     "libxaw3d": [
@@ -9284,49 +9292,49 @@
     "libxc": [
       {
         "formula": "libxc",
-        "count": "3"
+        "count": "2"
       }
     ],
     "libxcb": [
       {
         "formula": "libxcb",
-        "count": "2,824"
+        "count": "2,731"
       }
     ],
     "libxcomposite": [
       {
         "formula": "libxcomposite",
-        "count": "249"
+        "count": "244"
       }
     ],
     "libxcursor": [
       {
         "formula": "libxcursor",
-        "count": "341"
+        "count": "331"
       }
     ],
     "libxdamage": [
       {
         "formula": "libxdamage",
-        "count": "430"
+        "count": "412"
       }
     ],
     "libxdmcp": [
       {
         "formula": "libxdmcp",
-        "count": "1,998"
+        "count": "1,929"
       }
     ],
     "libxext": [
       {
         "formula": "libxext",
-        "count": "2,045"
+        "count": "1,975"
       }
     ],
     "libxfixes": [
       {
         "formula": "libxfixes",
-        "count": "1,579"
+        "count": "1,524"
       }
     ],
     "libxfont": [
@@ -9344,25 +9352,25 @@
     "libxi": [
       {
         "formula": "libxi",
-        "count": "1,490"
+        "count": "1,436"
       }
     ],
     "libxinerama": [
       {
         "formula": "libxinerama",
-        "count": "510"
+        "count": "490"
       }
     ],
     "libxkbcommon": [
       {
         "formula": "libxkbcommon",
-        "count": "308"
+        "count": "313"
       }
     ],
     "libxkbfile": [
       {
         "formula": "libxkbfile",
-        "count": "33"
+        "count": "32"
       }
     ],
     "libxlsxwriter": [
@@ -9374,7 +9382,7 @@
     "libxml++": [
       {
         "formula": "libxml++",
-        "count": "6"
+        "count": "5"
       }
     ],
     "libxml++3": [
@@ -9386,37 +9394,37 @@
     "libxml2": [
       {
         "formula": "libxml2",
-        "count": "3,916"
+        "count": "3,875"
       }
     ],
     "libxmlsec1": [
       {
         "formula": "libxmlsec1",
-        "count": "37"
+        "count": "40"
       }
     ],
     "libxmu": [
       {
         "formula": "libxmu",
-        "count": "108"
+        "count": "103"
       }
     ],
     "libxpm": [
       {
         "formula": "libxpm",
-        "count": "295"
+        "count": "290"
       }
     ],
     "libxrandr": [
       {
         "formula": "libxrandr",
-        "count": "1,537"
+        "count": "1,485"
       }
     ],
     "libxrender": [
       {
         "formula": "libxrender",
-        "count": "1,883"
+        "count": "1,822"
       }
     ],
     "libxres": [
@@ -9428,43 +9436,43 @@
     "libxscrnsaver": [
       {
         "formula": "libxscrnsaver",
-        "count": "251"
+        "count": "243"
       }
     ],
     "libxshmfence": [
       {
         "formula": "libxshmfence",
-        "count": "381"
+        "count": "364"
       }
     ],
     "libxslt": [
       {
         "formula": "libxslt",
-        "count": "1,792"
+        "count": "1,793"
       }
     ],
     "libxt": [
       {
         "formula": "libxt",
-        "count": "1,341"
+        "count": "1,296"
       }
     ],
     "libxtst": [
       {
         "formula": "libxtst",
-        "count": "1,330"
+        "count": "1,285"
       }
     ],
     "libxv": [
       {
         "formula": "libxv",
-        "count": "529"
+        "count": "508"
       }
     ],
     "libxvmc": [
       {
         "formula": "libxvmc",
-        "count": "420"
+        "count": "403"
       }
     ],
     "libxxf86dga": [
@@ -9476,25 +9484,25 @@
     "libxxf86vm": [
       {
         "formula": "libxxf86vm",
-        "count": "604"
+        "count": "584"
       }
     ],
     "libyaml": [
       {
         "formula": "libyaml",
-        "count": "2,941"
+        "count": "2,926"
       }
     ],
     "libyubikey": [
       {
         "formula": "libyubikey",
-        "count": "13"
+        "count": "9"
       }
     ],
     "libzip": [
       {
         "formula": "libzip",
-        "count": "553"
+        "count": "550"
       }
     ],
     "lightgbm": [
@@ -9512,13 +9520,13 @@
     "linkerd": [
       {
         "formula": "linkerd",
-        "count": "109"
+        "count": "93"
       }
     ],
     "links": [
       {
         "formula": "links",
-        "count": "11"
+        "count": "10"
       }
     ],
     "linux-headers": [
@@ -9530,7 +9538,7 @@
     "linux-pam": [
       {
         "formula": "linux-pam",
-        "count": "61"
+        "count": "60"
       }
     ],
     "liquibase": [
@@ -9543,6 +9551,12 @@
       {
         "formula": "liquidprompt",
         "count": "7"
+      }
+    ],
+    "liquigraph": [
+      {
+        "formula": "liquigraph",
+        "count": "1"
       }
     ],
     "litecli": [
@@ -9566,7 +9580,7 @@
     "little-cms2": [
       {
         "formula": "little-cms2",
-        "count": "756"
+        "count": "753"
       }
     ],
     "lizard-analyzer": [
@@ -9578,7 +9592,7 @@
     "llvm": [
       {
         "formula": "llvm",
-        "count": "1,198"
+        "count": "1,186"
       },
       {
         "formula": "llvm --HEAD",
@@ -9612,13 +9626,13 @@
     "llvm@9": [
       {
         "formula": "llvm@9",
-        "count": "31"
+        "count": "26"
       }
     ],
     "lm-sensors": [
       {
         "formula": "lm-sensors",
-        "count": "455"
+        "count": "451"
       }
     ],
     "lm4tools": [
@@ -9630,13 +9644,13 @@
     "lmdb": [
       {
         "formula": "lmdb",
-        "count": "66"
+        "count": "64"
       }
     ],
     "lmod": [
       {
         "formula": "lmod",
-        "count": "9"
+        "count": "2"
       }
     ],
     "lnav": [
@@ -9666,7 +9680,7 @@
     "logcli": [
       {
         "formula": "logcli",
-        "count": "2"
+        "count": "1"
       }
     ],
     "logrotate": [
@@ -9678,7 +9692,7 @@
     "logstash": [
       {
         "formula": "logstash",
-        "count": "4"
+        "count": "3"
       }
     ],
     "lolcat": [
@@ -9708,13 +9722,13 @@
     "lsd": [
       {
         "formula": "lsd",
-        "count": "74"
+        "count": "72"
       }
     ],
     "lsof": [
       {
         "formula": "lsof",
-        "count": "8"
+        "count": "7"
       }
     ],
     "lsusb": [
@@ -9744,13 +9758,13 @@
     "lua": [
       {
         "formula": "lua",
-        "count": "630"
+        "count": "622"
       }
     ],
     "lua@5.1": [
       {
         "formula": "lua@5.1",
-        "count": "41"
+        "count": "39"
       }
     ],
     "luabind": [
@@ -9762,7 +9776,7 @@
     "luajit": [
       {
         "formula": "luajit",
-        "count": "456"
+        "count": "457"
       },
       {
         "formula": "luajit --HEAD",
@@ -9772,7 +9786,7 @@
     "luarocks": [
       {
         "formula": "luarocks",
-        "count": "352"
+        "count": "343"
       },
       {
         "formula": "luarocks --HEAD",
@@ -9788,7 +9802,7 @@
     "lv": [
       {
         "formula": "lv",
-        "count": "3"
+        "count": "2"
       }
     ],
     "lxc": [
@@ -9812,31 +9826,31 @@
     "lz4": [
       {
         "formula": "lz4",
-        "count": "1,049"
+        "count": "1,056"
       }
     ],
     "lzip": [
       {
         "formula": "lzip",
-        "count": "38"
+        "count": "40"
       }
     ],
     "lzlib": [
       {
         "formula": "lzlib",
-        "count": "29"
+        "count": "30"
       }
     ],
     "lzo": [
       {
         "formula": "lzo",
-        "count": "1,111"
+        "count": "1,119"
       }
     ],
     "m4": [
       {
         "formula": "m4",
-        "count": "6,546"
+        "count": "6,548"
       }
     ],
     "mac-robber": [
@@ -9854,31 +9868,31 @@
     "mackup": [
       {
         "formula": "mackup",
-        "count": "37"
+        "count": "36"
       }
     ],
     "mad": [
       {
         "formula": "mad",
-        "count": "24"
+        "count": "25"
       }
     ],
     "mafft": [
       {
         "formula": "mafft",
-        "count": "11"
+        "count": "9"
       }
     ],
     "magic-wormhole": [
       {
         "formula": "magic-wormhole",
-        "count": "19"
+        "count": "18"
       }
     ],
     "mailhog": [
       {
         "formula": "mailhog",
-        "count": "766"
+        "count": "759"
       }
     ],
     "mailutils": [
@@ -9890,7 +9904,7 @@
     "make": [
       {
         "formula": "make",
-        "count": "222"
+        "count": "220"
       }
     ],
     "makedepend": [
@@ -9938,7 +9952,7 @@
     "mariadb": [
       {
         "formula": "mariadb",
-        "count": "81"
+        "count": "79"
       }
     ],
     "mariadb-connector-c": [
@@ -9956,13 +9970,13 @@
     "mariadb@10.4": [
       {
         "formula": "mariadb@10.4",
-        "count": "8"
+        "count": "9"
       }
     ],
     "markdown": [
       {
         "formula": "markdown",
-        "count": "10"
+        "count": "12"
       }
     ],
     "masscan": [
@@ -9980,19 +9994,13 @@
     "maven": [
       {
         "formula": "maven",
-        "count": "256"
+        "count": "262"
       }
     ],
     "maven-completion": [
       {
         "formula": "maven-completion",
         "count": "2"
-      }
-    ],
-    "maven@3.3": [
-      {
-        "formula": "maven@3.3",
-        "count": "1"
       }
     ],
     "maven@3.5": [
@@ -10004,7 +10012,7 @@
     "mawk": [
       {
         "formula": "mawk",
-        "count": "304"
+        "count": "303"
       }
     ],
     "maxima": [
@@ -10034,7 +10042,7 @@
     "mcrypt": [
       {
         "formula": "mcrypt",
-        "count": "16"
+        "count": "15"
       }
     ],
     "md5deep": [
@@ -10052,7 +10060,7 @@
     "mdbook": [
       {
         "formula": "mdbook",
-        "count": "14"
+        "count": "10"
       }
     ],
     "mdbtools": [
@@ -10082,19 +10090,19 @@
     "mdv": [
       {
         "formula": "mdv",
-        "count": "5"
+        "count": "6"
       }
     ],
     "mecab": [
       {
         "formula": "mecab",
-        "count": "76"
+        "count": "77"
       }
     ],
     "mecab-ipadic": [
       {
         "formula": "mecab-ipadic",
-        "count": "65"
+        "count": "67"
       }
     ],
     "mecab-unidic": [
@@ -10106,7 +10114,7 @@
     "media-info": [
       {
         "formula": "media-info",
-        "count": "33"
+        "count": "30"
       }
     ],
     "mediaconch": [
@@ -10118,7 +10126,7 @@
     "megacmd": [
       {
         "formula": "megacmd",
-        "count": "1"
+        "count": "2"
       }
     ],
     "megatools": [
@@ -10136,7 +10144,7 @@
     "memcached": [
       {
         "formula": "memcached",
-        "count": "13"
+        "count": "14"
       }
     ],
     "memtester": [
@@ -10148,13 +10156,13 @@
     "mercurial": [
       {
         "formula": "mercurial",
-        "count": "78"
+        "count": "77"
       }
     ],
     "mesa": [
       {
         "formula": "mesa",
-        "count": "936"
+        "count": "924"
       }
     ],
     "mesalib-glw": [
@@ -10166,7 +10174,7 @@
     "meson": [
       {
         "formula": "meson",
-        "count": "802"
+        "count": "782"
       }
     ],
     "meson-internal": [
@@ -10178,19 +10186,19 @@
     "metis": [
       {
         "formula": "metis",
-        "count": "61"
+        "count": "62"
       }
     ],
     "mhash": [
       {
         "formula": "mhash",
-        "count": "14"
+        "count": "13"
       }
     ],
     "micro": [
       {
         "formula": "micro",
-        "count": "102"
+        "count": "100"
       }
     ],
     "micronaut": [
@@ -10208,7 +10216,7 @@
     "midnight-commander": [
       {
         "formula": "midnight-commander",
-        "count": "44"
+        "count": "42"
       }
     ],
     "mill": [
@@ -10220,13 +10228,13 @@
     "miller": [
       {
         "formula": "miller",
-        "count": "4"
+        "count": "3"
       }
     ],
     "mingw-w64": [
       {
         "formula": "mingw-w64",
-        "count": "311"
+        "count": "313"
       }
     ],
     "minicom": [
@@ -10244,7 +10252,7 @@
     "minikube": [
       {
         "formula": "minikube",
-        "count": "637"
+        "count": "631"
       },
       {
         "formula": "minikube --HEAD",
@@ -10254,7 +10262,7 @@
     "minimal-racket": [
       {
         "formula": "minimal-racket",
-        "count": "4"
+        "count": "3"
       }
     ],
     "minimap2": [
@@ -10266,19 +10274,19 @@
     "minio": [
       {
         "formula": "minio",
-        "count": "68"
+        "count": "63"
       }
     ],
     "minio-mc": [
       {
         "formula": "minio-mc",
-        "count": "29"
+        "count": "32"
       }
     ],
     "miniserve": [
       {
         "formula": "miniserve",
-        "count": "2"
+        "count": "1"
       }
     ],
     "minisign": [
@@ -10314,13 +10322,13 @@
     "mitmproxy": [
       {
         "formula": "mitmproxy",
-        "count": "52"
+        "count": "50"
       }
     ],
     "mkcert": [
       {
         "formula": "mkcert",
-        "count": "2,729"
+        "count": "2,703"
       }
     ],
     "mkdocs": [
@@ -10344,7 +10352,7 @@
     "mkvtoolnix": [
       {
         "formula": "mkvtoolnix",
-        "count": "17"
+        "count": "16"
       }
     ],
     "mlton": [
@@ -10434,35 +10442,35 @@
     "mono": [
       {
         "formula": "mono",
-        "count": "47"
+        "count": "45"
       }
     ],
     "monolith": [
       {
         "formula": "monolith",
-        "count": "1"
+        "count": "2"
       }
     ],
     "moreutils": [
       {
         "formula": "moreutils",
-        "count": "21"
+        "count": "20"
       }
     ],
     "mosh": [
       {
         "formula": "mosh --HEAD",
-        "count": "70"
+        "count": "71"
       },
       {
         "formula": "mosh",
-        "count": "57"
+        "count": "61"
       }
     ],
     "mosquitto": [
       {
         "formula": "mosquitto",
-        "count": "13"
+        "count": "11"
       }
     ],
     "most": [
@@ -10510,7 +10518,7 @@
     "mpfr": [
       {
         "formula": "mpfr",
-        "count": "12,033"
+        "count": "12,038"
       }
     ],
     "mpg123": [
@@ -10522,7 +10530,7 @@
     "mpi4py": [
       {
         "formula": "mpi4py",
-        "count": "11"
+        "count": "12"
       }
     ],
     "mpich": [
@@ -10540,13 +10548,13 @@
     "mps-youtube": [
       {
         "formula": "mps-youtube",
-        "count": "4"
+        "count": "3"
       }
     ],
     "mpv": [
       {
         "formula": "mpv",
-        "count": "20"
+        "count": "19"
       }
     ],
     "mpw": [
@@ -10570,7 +10578,7 @@
     "msgpack": [
       {
         "formula": "msgpack",
-        "count": "620"
+        "count": "631"
       }
     ],
     "msgpuck": [
@@ -10588,7 +10596,7 @@
     "mtr": [
       {
         "formula": "mtr",
-        "count": "24"
+        "count": "25"
       }
     ],
     "mu": [
@@ -10604,13 +10612,19 @@
     "mujs": [
       {
         "formula": "mujs",
-        "count": "28"
+        "count": "27"
       }
     ],
     "multimarkdown": [
       {
         "formula": "multimarkdown",
         "count": "4"
+      }
+    ],
+    "multitail": [
+      {
+        "formula": "multitail",
+        "count": "1"
       }
     ],
     "muparser": [
@@ -10622,13 +10636,13 @@
     "mupdf": [
       {
         "formula": "mupdf",
-        "count": "8"
+        "count": "6"
       }
     ],
     "mupdf-tools": [
       {
         "formula": "mupdf-tools",
-        "count": "4"
+        "count": "6"
       }
     ],
     "mupen64plus": [
@@ -10640,7 +10654,7 @@
     "mutt": [
       {
         "formula": "mutt",
-        "count": "9"
+        "count": "10"
       }
     ],
     "mvnvm": [
@@ -10652,25 +10666,25 @@
     "mycli": [
       {
         "formula": "mycli",
-        "count": "21"
+        "count": "22"
       }
     ],
     "mypy": [
       {
         "formula": "mypy",
-        "count": "6"
+        "count": "7"
       }
     ],
     "mysql": [
       {
         "formula": "mysql",
-        "count": "477"
+        "count": "474"
       }
     ],
     "mysql-client": [
       {
         "formula": "mysql-client",
-        "count": "111"
+        "count": "106"
       }
     ],
     "mysql-client@5.7": [
@@ -10682,13 +10696,13 @@
     "mysql@5.6": [
       {
         "formula": "mysql@5.6",
-        "count": "27"
+        "count": "31"
       }
     ],
     "mysql@5.7": [
       {
         "formula": "mysql@5.7",
-        "count": "124"
+        "count": "121"
       }
     ],
     "mytop": [
@@ -10700,7 +10714,7 @@
     "n": [
       {
         "formula": "n",
-        "count": "43"
+        "count": "44"
       }
     ],
     "naabu": [
@@ -10742,7 +10756,7 @@
     "nasm": [
       {
         "formula": "nasm",
-        "count": "249"
+        "count": "250"
       }
     ],
     "nats-server": [
@@ -10754,13 +10768,13 @@
     "navi": [
       {
         "formula": "navi",
-        "count": "73"
+        "count": "74"
       }
     ],
     "ncdu": [
       {
         "formula": "ncdu",
-        "count": "80"
+        "count": "79"
       }
     ],
     "ncftp": [
@@ -10778,7 +10792,7 @@
     "ncurses": [
       {
         "formula": "ncurses",
-        "count": "25,875"
+        "count": "25,905"
       }
     ],
     "ndenv": [
@@ -10814,13 +10828,13 @@
     "neofetch": [
       {
         "formula": "neofetch",
-        "count": "92"
+        "count": "95"
       }
     ],
     "neomutt": [
       {
         "formula": "neomutt",
-        "count": "17"
+        "count": "20"
       }
     ],
     "neon": [
@@ -10832,11 +10846,11 @@
     "neovim": [
       {
         "formula": "neovim",
-        "count": "524"
+        "count": "528"
       },
       {
         "formula": "neovim --HEAD",
-        "count": "190"
+        "count": "180"
       }
     ],
     "net-snmp": [
@@ -10854,13 +10868,13 @@
     "netcat": [
       {
         "formula": "netcat",
-        "count": "16"
+        "count": "17"
       }
     ],
     "netcdf": [
       {
         "formula": "netcdf",
-        "count": "113"
+        "count": "116"
       }
     ],
     "netdata": [
@@ -10878,19 +10892,19 @@
     "nethogs": [
       {
         "formula": "nethogs",
-        "count": "4"
+        "count": "5"
       }
     ],
     "netlify-cli": [
       {
         "formula": "netlify-cli",
-        "count": "16"
+        "count": "18"
       }
     ],
     "netpbm": [
       {
         "formula": "netpbm",
-        "count": "308"
+        "count": "314"
       }
     ],
     "netperf": [
@@ -10902,25 +10916,25 @@
     "nettle": [
       {
         "formula": "nettle",
-        "count": "897"
+        "count": "920"
       }
     ],
     "newman": [
       {
         "formula": "newman",
-        "count": "58"
+        "count": "57"
       }
     ],
     "newsboat": [
       {
         "formula": "newsboat",
-        "count": "7"
+        "count": "10"
       }
     ],
     "newt": [
       {
         "formula": "newt",
-        "count": "10"
+        "count": "9"
       }
     ],
     "nexus": [
@@ -10938,13 +10952,13 @@
     "nghttp2": [
       {
         "formula": "nghttp2",
-        "count": "604"
+        "count": "597"
       }
     ],
     "nginx": [
       {
         "formula": "nginx",
-        "count": "137"
+        "count": "139"
       }
     ],
     "ngrep": [
@@ -10986,13 +11000,13 @@
     "ninja": [
       {
         "formula": "ninja",
-        "count": "1,262"
+        "count": "1,299"
       }
     ],
     "nkf": [
       {
         "formula": "nkf",
-        "count": "35"
+        "count": "38"
       }
     ],
     "nload": [
@@ -11004,7 +11018,7 @@
     "nlohmann-json": [
       {
         "formula": "nlohmann-json",
-        "count": "18"
+        "count": "20"
       }
     ],
     "nlopt": [
@@ -11016,7 +11030,7 @@
     "nmap": [
       {
         "formula": "nmap",
-        "count": "201"
+        "count": "204"
       }
     ],
     "nnn": [
@@ -11028,13 +11042,13 @@
     "node": [
       {
         "formula": "node",
-        "count": "4,937"
+        "count": "4,989"
       }
     ],
     "node-build": [
       {
         "formula": "node-build",
-        "count": "231"
+        "count": "232"
       }
     ],
     "node-sass": [
@@ -11046,19 +11060,13 @@
     "node@10": [
       {
         "formula": "node@10",
-        "count": "1"
+        "count": "2"
       }
     ],
     "node@12": [
       {
         "formula": "node@12",
-        "count": "293"
-      }
-    ],
-    "node@14": [
-      {
-        "formula": "node@14",
-        "count": "6"
+        "count": "296"
       }
     ],
     "node_exporter": [
@@ -11070,7 +11078,7 @@
     "nodebrew": [
       {
         "formula": "nodebrew",
-        "count": "207"
+        "count": "206"
       }
     ],
     "nodeenv": [
@@ -11082,7 +11090,7 @@
     "nodenv": [
       {
         "formula": "nodenv",
-        "count": "130"
+        "count": "132"
       }
     ],
     "nomad": [
@@ -11094,25 +11102,25 @@
     "noti": [
       {
         "formula": "noti",
-        "count": "5"
+        "count": "7"
       }
     ],
     "notmuch": [
       {
         "formula": "notmuch",
-        "count": "17"
+        "count": "18"
       }
     ],
     "npth": [
       {
         "formula": "npth",
-        "count": "222"
+        "count": "225"
       }
     ],
     "nspr": [
       {
         "formula": "nspr",
-        "count": "1,067"
+        "count": "1,085"
       }
     ],
     "nsq": [
@@ -11124,7 +11132,7 @@
     "nss": [
       {
         "formula": "nss",
-        "count": "1,129"
+        "count": "1,146"
       }
     ],
     "nssh": [
@@ -11142,7 +11150,7 @@
     "ntl": [
       {
         "formula": "ntl",
-        "count": "118"
+        "count": "117"
       }
     ],
     "nu": [
@@ -11154,13 +11162,13 @@
     "numpy": [
       {
         "formula": "numpy",
-        "count": "202"
+        "count": "193"
       }
     ],
     "nushell": [
       {
         "formula": "nushell",
-        "count": "38"
+        "count": "39"
       }
     ],
     "nuttcp": [
@@ -11172,7 +11180,7 @@
     "nvm": [
       {
         "formula": "nvm",
-        "count": "841"
+        "count": "832"
       }
     ],
     "nyancat": [
@@ -11202,13 +11210,13 @@
     "oauth2l": [
       {
         "formula": "oauth2l",
-        "count": "6"
+        "count": "5"
       }
     ],
     "ocaml": [
       {
         "formula": "ocaml",
-        "count": "26"
+        "count": "30"
       }
     ],
     "ocaml-num": [
@@ -11250,7 +11258,7 @@
     "octant": [
       {
         "formula": "octant",
-        "count": "46"
+        "count": "47"
       }
     ],
     "octave": [
@@ -11298,7 +11306,7 @@
     "oha": [
       {
         "formula": "oha",
-        "count": "2"
+        "count": "1"
       }
     ],
     "oil": [
@@ -11310,7 +11318,7 @@
     "okteto": [
       {
         "formula": "okteto",
-        "count": "7"
+        "count": "8"
       }
     ],
     "onedrive": [
@@ -11322,13 +11330,13 @@
     "onefetch": [
       {
         "formula": "onefetch",
-        "count": "24"
+        "count": "23"
       }
     ],
     "oniguruma": [
       {
         "formula": "oniguruma",
-        "count": "1,503"
+        "count": "1,493"
       }
     ],
     "opa": [
@@ -11340,7 +11348,7 @@
     "opam": [
       {
         "formula": "opam",
-        "count": "12"
+        "count": "16"
       }
     ],
     "open-babel": [
@@ -11364,7 +11372,7 @@
     "open-mpi": [
       {
         "formula": "open-mpi",
-        "count": "738"
+        "count": "749"
       }
     ],
     "open-ocd": [
@@ -11376,13 +11384,13 @@
     "openapi-generator": [
       {
         "formula": "openapi-generator",
-        "count": "30"
+        "count": "28"
       }
     ],
     "openblas": [
       {
         "formula": "openblas",
-        "count": "496"
+        "count": "489"
       }
     ],
     "opencbm": [
@@ -11412,19 +11420,19 @@
     "openconnect": [
       {
         "formula": "openconnect",
-        "count": "11"
+        "count": "12"
       }
     ],
     "opencore-amr": [
       {
         "formula": "opencore-amr",
-        "count": "300"
+        "count": "299"
       }
     ],
     "opencv": [
       {
         "formula": "opencv",
-        "count": "16"
+        "count": "17"
       }
     ],
     "opencv@3": [
@@ -11436,7 +11444,7 @@
     "openexr": [
       {
         "formula": "openexr",
-        "count": "325"
+        "count": "319"
       }
     ],
     "openfortivpn": [
@@ -11460,7 +11468,7 @@
     "openjdk": [
       {
         "formula": "openjdk",
-        "count": "2,460"
+        "count": "2,485"
       }
     ],
     "openjdk@11": [
@@ -11484,7 +11492,7 @@
     "openldap": [
       {
         "formula": "openldap",
-        "count": "607"
+        "count": "583"
       }
     ],
     "openlibm": [
@@ -11508,7 +11516,7 @@
     "opensc": [
       {
         "formula": "opensc",
-        "count": "2"
+        "count": "5"
       }
     ],
     "openshift-cli": [
@@ -11520,13 +11528,13 @@
     "openslide": [
       {
         "formula": "openslide",
-        "count": "26"
+        "count": "25"
       }
     ],
     "openssh": [
       {
         "formula": "openssh",
-        "count": "106"
+        "count": "104"
       }
     ],
     "openssl": [
@@ -11538,7 +11546,7 @@
     "openssl@1.1": [
       {
         "formula": "openssl@1.1",
-        "count": "29,136"
+        "count": "29,149"
       }
     ],
     "openstackclient": [
@@ -11580,13 +11588,13 @@
     "opusfile": [
       {
         "formula": "opusfile",
-        "count": "31"
+        "count": "30"
       }
     ],
     "orc": [
       {
         "formula": "orc",
-        "count": "21"
+        "count": "20"
       }
     ],
     "orc-tools": [
@@ -11598,13 +11606,19 @@
     "osi": [
       {
         "formula": "osi",
-        "count": "11"
+        "count": "12"
       }
     ],
     "osm2pgsql": [
       {
         "formula": "osm2pgsql",
         "count": "2"
+      }
+    ],
+    "osmosis": [
+      {
+        "formula": "osmosis",
+        "count": "1"
       }
     ],
     "osslsigncode": [
@@ -11628,7 +11642,7 @@
     "overmind": [
       {
         "formula": "overmind",
-        "count": "290"
+        "count": "292"
       }
     ],
     "owamp": [
@@ -11646,7 +11660,7 @@
     "p11-kit": [
       {
         "formula": "p11-kit",
-        "count": "1,066"
+        "count": "1,088"
       }
     ],
     "p7zip": [
@@ -11664,7 +11678,7 @@
     "packer": [
       {
         "formula": "packer",
-        "count": "192"
+        "count": "202"
       }
     ],
     "packer-completion": [
@@ -11712,7 +11726,7 @@
     "pango": [
       {
         "formula": "pango",
-        "count": "649"
+        "count": "667"
       }
     ],
     "pangomm": [
@@ -11736,7 +11750,7 @@
     "parallel": [
       {
         "formula": "parallel",
-        "count": "158"
+        "count": "149"
       }
     ],
     "parquet-tools": [
@@ -11754,7 +11768,7 @@
     "pass": [
       {
         "formula": "pass",
-        "count": "29"
+        "count": "31"
       }
     ],
     "pass-otp": [
@@ -11778,19 +11792,13 @@
     "patchelf": [
       {
         "formula": "patchelf",
-        "count": "44,018"
+        "count": "44,000"
       }
     ],
     "patchutils": [
       {
         "formula": "patchutils",
-        "count": "8"
-      }
-    ],
-    "pbc": [
-      {
-        "formula": "pbc",
-        "count": "1"
+        "count": "9"
       }
     ],
     "pbzip2": [
@@ -11799,34 +11807,28 @@
         "count": "2"
       }
     ],
-    "pcl": [
-      {
-        "formula": "pcl",
-        "count": "1"
-      }
-    ],
     "pcre": [
       {
         "formula": "pcre",
-        "count": "3,794"
+        "count": "3,796"
       }
     ],
     "pcre2": [
       {
         "formula": "pcre2",
-        "count": "2,262"
+        "count": "2,243"
       }
     ],
     "pcsc-lite": [
       {
         "formula": "pcsc-lite",
-        "count": "23"
+        "count": "22"
       }
     ],
     "pdf2htmlex": [
       {
         "formula": "pdf2htmlex",
-        "count": "23"
+        "count": "26"
       },
       {
         "formula": "pdf2htmlEX",
@@ -11869,6 +11871,12 @@
         "count": "9"
       }
     ],
+    "pdftohtml": [
+      {
+        "formula": "pdftohtml",
+        "count": "1"
+      }
+    ],
     "pdm": [
       {
         "formula": "pdm",
@@ -11878,7 +11886,7 @@
     "peco": [
       {
         "formula": "peco",
-        "count": "98"
+        "count": "97"
       }
     ],
     "percol": [
@@ -11908,7 +11916,7 @@
     "perl": [
       {
         "formula": "perl",
-        "count": "4,776"
+        "count": "4,796"
       },
       {
         "formula": "perl --HEAD",
@@ -11984,7 +11992,7 @@
     "php": [
       {
         "formula": "php",
-        "count": "378"
+        "count": "380"
       }
     ],
     "php-code-sniffer": [
@@ -11996,19 +12004,19 @@
     "php-cs-fixer": [
       {
         "formula": "php-cs-fixer",
-        "count": "6"
+        "count": "8"
       }
     ],
     "php@7.2": [
       {
         "formula": "php@7.2",
-        "count": "44"
+        "count": "38"
       }
     ],
     "php@7.3": [
       {
         "formula": "php@7.3",
-        "count": "54"
+        "count": "53"
       }
     ],
     "phplint": [
@@ -12020,7 +12028,7 @@
     "phpmyadmin": [
       {
         "formula": "phpmyadmin",
-        "count": "15"
+        "count": "14"
       }
     ],
     "phpstan": [
@@ -12044,7 +12052,7 @@
     "picard-tools": [
       {
         "formula": "picard-tools",
-        "count": "42"
+        "count": "41"
       }
     ],
     "picocom": [
@@ -12074,7 +12082,7 @@
     "pigz": [
       {
         "formula": "pigz",
-        "count": "81"
+        "count": "79"
       }
     ],
     "piknik": [
@@ -12092,7 +12100,7 @@
     "pinentry": [
       {
         "formula": "pinentry",
-        "count": "244"
+        "count": "247"
       }
     ],
     "pinentry-mac": [
@@ -12101,46 +12109,40 @@
         "count": "15"
       }
     ],
-    "pinfo": [
-      {
-        "formula": "pinfo",
-        "count": "2"
-      }
-    ],
     "pip-completion": [
       {
         "formula": "pip-completion",
-        "count": "7"
+        "count": "6"
       }
     ],
     "pipenv": [
       {
         "formula": "pipenv",
-        "count": "497"
+        "count": "486"
       }
     ],
     "pipes-sh": [
       {
         "formula": "pipes-sh",
-        "count": "6"
+        "count": "7"
       }
     ],
     "pipgrip": [
       {
         "formula": "pipgrip",
-        "count": "91"
+        "count": "88"
       }
     ],
     "pipx": [
       {
         "formula": "pipx",
-        "count": "124"
+        "count": "128"
       }
     ],
     "pixman": [
       {
         "formula": "pixman",
-        "count": "1,115"
+        "count": "1,121"
       }
     ],
     "pixz": [
@@ -12158,7 +12160,7 @@
     "pkg-config": [
       {
         "formula": "pkg-config",
-        "count": "6,387"
+        "count": "6,352"
       }
     ],
     "plank": [
@@ -12170,7 +12172,7 @@
     "plantuml": [
       {
         "formula": "plantuml",
-        "count": "22"
+        "count": "23"
       }
     ],
     "platformio": [
@@ -12203,16 +12205,22 @@
         "count": "4"
       }
     ],
+    "pngcrush": [
+      {
+        "formula": "pngcrush",
+        "count": "1"
+      }
+    ],
     "pngpaste": [
       {
         "formula": "pngpaste",
-        "count": "14"
+        "count": "13"
       }
     ],
     "pngquant": [
       {
         "formula": "pngquant",
-        "count": "68"
+        "count": "67"
       }
     ],
     "pnpm": [
@@ -12224,7 +12232,7 @@
     "po4a": [
       {
         "formula": "po4a",
-        "count": "14"
+        "count": "13"
       }
     ],
     "pocket": [
@@ -12242,13 +12250,19 @@
     "podman": [
       {
         "formula": "podman",
-        "count": "53"
+        "count": "55"
+      }
+    ],
+    "podofo": [
+      {
+        "formula": "podofo",
+        "count": "1"
       }
     ],
     "poetry": [
       {
         "formula": "poetry",
-        "count": "155"
+        "count": "148"
       }
     ],
     "polyglot": [
@@ -12272,19 +12286,19 @@
     "poppler": [
       {
         "formula": "poppler",
-        "count": "56"
+        "count": "55"
       }
     ],
     "popt": [
       {
         "formula": "popt",
-        "count": "212"
+        "count": "215"
       }
     ],
     "portaudio": [
       {
         "formula": "portaudio",
-        "count": "59"
+        "count": "60"
       }
     ],
     "portmidi": [
@@ -12302,7 +12316,7 @@
     "postgresql": [
       {
         "formula": "postgresql",
-        "count": "659"
+        "count": "654"
       }
     ],
     "postgresql@10": [
@@ -12314,7 +12328,7 @@
     "postgresql@11": [
       {
         "formula": "postgresql@11",
-        "count": "17"
+        "count": "18"
       }
     ],
     "postgresql@12": [
@@ -12344,7 +12358,7 @@
     "potrace": [
       {
         "formula": "potrace",
-        "count": "2"
+        "count": "1"
       }
     ],
     "powerline-go": [
@@ -12356,7 +12370,7 @@
     "pre-commit": [
       {
         "formula": "pre-commit",
-        "count": "883"
+        "count": "873"
       }
     ],
     "prest": [
@@ -12368,13 +12382,13 @@
     "prettier": [
       {
         "formula": "prettier",
-        "count": "34"
+        "count": "33"
       }
     ],
     "prettyping": [
       {
         "formula": "prettyping",
-        "count": "13"
+        "count": "12"
       }
     ],
     "primer3": [
@@ -12398,7 +12412,7 @@
     "procs": [
       {
         "formula": "procs",
-        "count": "74"
+        "count": "83"
       }
     ],
     "prodigal": [
@@ -12410,13 +12424,13 @@
     "progress": [
       {
         "formula": "progress",
-        "count": "11"
+        "count": "10"
       }
     ],
     "proj": [
       {
         "formula": "proj",
-        "count": "77"
+        "count": "79"
       }
     ],
     "prometheus": [
@@ -12452,13 +12466,13 @@
     "protobuf": [
       {
         "formula": "protobuf",
-        "count": "796"
+        "count": "784"
       }
     ],
     "protobuf-c": [
       {
         "formula": "protobuf-c",
-        "count": "17"
+        "count": "18"
       }
     ],
     "protobuf@3.6": [
@@ -12488,13 +12502,13 @@
     "prototool": [
       {
         "formula": "prototool",
-        "count": "29"
+        "count": "27"
       }
     ],
     "proxychains-ng": [
       {
         "formula": "proxychains-ng",
-        "count": "14"
+        "count": "15"
       }
     ],
     "pspg": [
@@ -12548,13 +12562,13 @@
     "pugixml": [
       {
         "formula": "pugixml",
-        "count": "10"
+        "count": "9"
       }
     ],
     "pulseaudio": [
       {
         "formula": "pulseaudio",
-        "count": "512"
+        "count": "513"
       }
     ],
     "pulumi": [
@@ -12590,7 +12604,7 @@
     "pwgen": [
       {
         "formula": "pwgen",
-        "count": "15"
+        "count": "16"
       }
     ],
     "pwncat": [
@@ -12608,19 +12622,19 @@
     "py3cairo": [
       {
         "formula": "py3cairo",
-        "count": "27"
+        "count": "26"
       }
     ],
     "pybind11": [
       {
         "formula": "pybind11",
-        "count": "44"
+        "count": "46"
       }
     ],
     "pyenv": [
       {
         "formula": "pyenv",
-        "count": "1,605"
+        "count": "1,589"
       },
       {
         "formula": "pyenv --HEAD",
@@ -12642,7 +12656,7 @@
     "pyenv-virtualenv": [
       {
         "formula": "pyenv-virtualenv",
-        "count": "234"
+        "count": "231"
       },
       {
         "formula": "pyenv-virtualenv --HEAD",
@@ -12652,7 +12666,7 @@
     "pyenv-virtualenvwrapper": [
       {
         "formula": "pyenv-virtualenvwrapper",
-        "count": "39"
+        "count": "40"
       }
     ],
     "pyenv-which-ext": [
@@ -12664,7 +12678,7 @@
     "pygments": [
       {
         "formula": "pygments",
-        "count": "25"
+        "count": "26"
       }
     ],
     "pygobject": [
@@ -12676,7 +12690,7 @@
     "pygobject3": [
       {
         "formula": "pygobject3",
-        "count": "24"
+        "count": "23"
       }
     ],
     "pyinstaller": [
@@ -12694,7 +12708,7 @@
     "pylint": [
       {
         "formula": "pylint",
-        "count": "38"
+        "count": "35"
       }
     ],
     "pyonpyon": [
@@ -12724,7 +12738,7 @@
     "python": [
       {
         "formula": "python",
-        "count": "15"
+        "count": "14"
       }
     ],
     "python-dbus": [
@@ -12742,7 +12756,7 @@
     "python-yq": [
       {
         "formula": "python-yq",
-        "count": "68"
+        "count": "74"
       }
     ],
     "python@2": [
@@ -12754,19 +12768,19 @@
     "python@3.7": [
       {
         "formula": "python@3.7",
-        "count": "5,778"
+        "count": "6,282"
       }
     ],
     "python@3.8": [
       {
         "formula": "python@3.8",
-        "count": "17,553"
+        "count": "17,290"
       }
     ],
     "python@3.9": [
       {
         "formula": "python@3.9",
-        "count": "5,806"
+        "count": "5,392"
       }
     ],
     "pyvim": [
@@ -12796,13 +12810,13 @@
     "qemu": [
       {
         "formula": "qemu",
-        "count": "45"
+        "count": "42"
       }
     ],
     "qhull": [
       {
         "formula": "qhull",
-        "count": "7"
+        "count": "6"
       }
     ],
     "qp": [
@@ -12817,6 +12831,12 @@
         "count": "15"
       }
     ],
+    "qpid-proton": [
+      {
+        "formula": "qpid-proton",
+        "count": "1"
+      }
+    ],
     "qpm": [
       {
         "formula": "qpm",
@@ -12826,7 +12846,7 @@
     "qrencode": [
       {
         "formula": "qrencode",
-        "count": "65"
+        "count": "70"
       }
     ],
     "qrupdate": [
@@ -12850,7 +12870,7 @@
     "qt": [
       {
         "formula": "qt",
-        "count": "279"
+        "count": "285"
       },
       {
         "formula": "qt --HEAD",
@@ -12900,7 +12920,7 @@
     "rabbitmq": [
       {
         "formula": "rabbitmq",
-        "count": "17"
+        "count": "18"
       }
     ],
     "rabbitmq-c": [
@@ -12942,7 +12962,7 @@
     "rakudo-star": [
       {
         "formula": "rakudo-star",
-        "count": "7"
+        "count": "5"
       }
     ],
     "rancher-cli": [
@@ -12954,13 +12974,13 @@
     "ranger": [
       {
         "formula": "ranger",
-        "count": "37"
+        "count": "40"
       }
     ],
     "rapidjson": [
       {
         "formula": "rapidjson",
-        "count": "22"
+        "count": "23"
       }
     ],
     "rareqs": [
@@ -12984,7 +13004,7 @@
     "rbenv": [
       {
         "formula": "rbenv",
-        "count": "533"
+        "count": "536"
       }
     ],
     "rbenv-aliases": [
@@ -13014,7 +13034,7 @@
     "rbenv-bundler-ruby-version": [
       {
         "formula": "rbenv-bundler-ruby-version",
-        "count": "3"
+        "count": "2"
       }
     ],
     "rbenv-chefdk": [
@@ -13032,19 +13052,19 @@
     "rbenv-default-gems": [
       {
         "formula": "rbenv-default-gems",
-        "count": "11"
+        "count": "13"
       }
     ],
     "rbenv-gemset": [
       {
         "formula": "rbenv-gemset",
-        "count": "13"
+        "count": "14"
       }
     ],
     "rbenv-use": [
       {
         "formula": "rbenv-use",
-        "count": "6"
+        "count": "7"
       }
     ],
     "rbenv-vars": [
@@ -13068,13 +13088,13 @@
     "rclone": [
       {
         "formula": "rclone",
-        "count": "179"
+        "count": "158"
       }
     ],
     "rcm": [
       {
         "formula": "rcm",
-        "count": "10"
+        "count": "9"
       }
     ],
     "rcs": [
@@ -13104,7 +13124,7 @@
     "re2": [
       {
         "formula": "re2",
-        "count": "22"
+        "count": "24"
       }
     ],
     "re2c": [
@@ -13122,7 +13142,7 @@
     "readline": [
       {
         "formula": "readline",
-        "count": "24,017"
+        "count": "24,075"
       }
     ],
     "reattach-to-user-namespace": [
@@ -13158,7 +13178,7 @@
     "redis": [
       {
         "formula": "redis",
-        "count": "290"
+        "count": "291"
       }
     ],
     "redis@3.2": [
@@ -13182,13 +13202,13 @@
     "remarshal": [
       {
         "formula": "remarshal",
-        "count": "4"
+        "count": "3"
       }
     ],
     "rename": [
       {
         "formula": "rename",
-        "count": "46"
+        "count": "45"
       }
     ],
     "renameutils": [
@@ -13218,7 +13238,7 @@
     "restic": [
       {
         "formula": "restic",
-        "count": "10"
+        "count": "12"
       }
     ],
     "restview": [
@@ -13242,13 +13262,13 @@
     "ripgrep": [
       {
         "formula": "ripgrep",
-        "count": "442"
+        "count": "437"
       }
     ],
     "ripgrep-all": [
       {
         "formula": "ripgrep-all",
-        "count": "8"
+        "count": "7"
       }
     ],
     "ripmime": [
@@ -13266,7 +13286,7 @@
     "rlwrap": [
       {
         "formula": "rlwrap",
-        "count": "119"
+        "count": "118"
       }
     ],
     "rmlint": [
@@ -13284,23 +13304,23 @@
     "rocksdb": [
       {
         "formula": "rocksdb",
-        "count": "1"
+        "count": "4"
       }
     ],
     "root": [
       {
         "formula": "root",
-        "count": "25"
+        "count": "26"
       }
     ],
     "roswell": [
       {
         "formula": "roswell --HEAD",
-        "count": "21"
+        "count": "20"
       },
       {
         "formula": "roswell",
-        "count": "15"
+        "count": "16"
       }
     ],
     "rpcgen": [
@@ -13348,19 +13368,19 @@
     "rtags": [
       {
         "formula": "rtags",
-        "count": "7"
+        "count": "6"
       }
     ],
     "rtmpdump": [
       {
         "formula": "rtmpdump",
-        "count": "765"
+        "count": "753"
       }
     ],
     "rtorrent": [
       {
         "formula": "rtorrent",
-        "count": "4"
+        "count": "3"
       }
     ],
     "rtv": [
@@ -13372,19 +13392,19 @@
     "rubberband": [
       {
         "formula": "rubberband",
-        "count": "293"
+        "count": "295"
       }
     ],
     "ruby": [
       {
         "formula": "ruby",
-        "count": "1,660"
+        "count": "1,649"
       }
     ],
     "ruby-build": [
       {
         "formula": "ruby-build",
-        "count": "770"
+        "count": "786"
       },
       {
         "formula": "ruby-build --HEAD",
@@ -13400,7 +13420,7 @@
     "ruby-install": [
       {
         "formula": "ruby-install",
-        "count": "19"
+        "count": "18"
       }
     ],
     "ruby@2.4": [
@@ -13436,7 +13456,7 @@
     "rust": [
       {
         "formula": "rust",
-        "count": "798"
+        "count": "767"
       }
     ],
     "rust-analyzer": [
@@ -13460,7 +13480,7 @@
     "rustup-init": [
       {
         "formula": "rustup-init",
-        "count": "75"
+        "count": "77"
       }
     ],
     "rxvt-unicode": [
@@ -13472,7 +13492,7 @@
     "s-lang": [
       {
         "formula": "s-lang",
-        "count": "52"
+        "count": "50"
       }
     ],
     "s-search": [
@@ -13490,7 +13510,7 @@
     "s3cmd": [
       {
         "formula": "s3cmd",
-        "count": "41"
+        "count": "39"
       }
     ],
     "s3fs": [
@@ -13520,7 +13540,7 @@
     "salt": [
       {
         "formula": "salt",
-        "count": "8"
+        "count": "5"
       }
     ],
     "sampler": [
@@ -13532,7 +13552,7 @@
     "samtools": [
       {
         "formula": "samtools",
-        "count": "141"
+        "count": "136"
       }
     ],
     "sardine": [
@@ -13556,7 +13576,7 @@
     "sbt": [
       {
         "formula": "sbt",
-        "count": "185"
+        "count": "189"
       }
     ],
     "sbt@0.13": [
@@ -13584,13 +13604,13 @@
     "scala": [
       {
         "formula": "scala",
-        "count": "42"
+        "count": "44"
       }
     ],
     "scala@2.11": [
       {
         "formula": "scala@2.11",
-        "count": "3"
+        "count": "2"
       }
     ],
     "scala@2.12": [
@@ -13636,19 +13656,19 @@
     "sceptre": [
       {
         "formula": "sceptre",
-        "count": "2"
+        "count": "1"
       }
     ],
     "scipy": [
       {
         "formula": "scipy",
-        "count": "21"
+        "count": "22"
       }
     ],
     "scons": [
       {
         "formula": "scons",
-        "count": "64"
+        "count": "60"
       }
     ],
     "scrcpy": [
@@ -13660,7 +13680,7 @@
     "screen": [
       {
         "formula": "screen",
-        "count": "48"
+        "count": "46"
       }
     ],
     "screenfetch": [
@@ -13678,7 +13698,7 @@
     "sd": [
       {
         "formula": "sd",
-        "count": "47"
+        "count": "46"
       }
     ],
     "sdcv": [
@@ -13696,13 +13716,13 @@
     "sdl": [
       {
         "formula": "sdl",
-        "count": "48"
+        "count": "46"
       }
     ],
     "sdl2": [
       {
         "formula": "sdl2",
-        "count": "419"
+        "count": "417"
       }
     ],
     "sdl2_gfx": [
@@ -13750,13 +13770,13 @@
     "sdl_net": [
       {
         "formula": "sdl_net",
-        "count": "6"
+        "count": "5"
       }
     ],
     "sdl_sound": [
       {
         "formula": "sdl_sound",
-        "count": "7"
+        "count": "6"
       }
     ],
     "sdl_ttf": [
@@ -13786,19 +13806,19 @@
     "selenium-server-standalone": [
       {
         "formula": "selenium-server-standalone",
-        "count": "13"
+        "count": "14"
       }
     ],
     "semgrep": [
       {
         "formula": "semgrep",
-        "count": "5"
+        "count": "6"
       }
     ],
     "sentencepiece": [
       {
         "formula": "sentencepiece",
-        "count": "4"
+        "count": "3"
       }
     ],
     "seqtk": [
@@ -13816,7 +13836,7 @@
     "serverless": [
       {
         "formula": "serverless",
-        "count": "29"
+        "count": "30"
       }
     ],
     "sfcgal": [
@@ -13840,7 +13860,7 @@
     "shared-mime-info": [
       {
         "formula": "shared-mime-info",
-        "count": "518"
+        "count": "514"
       }
     ],
     "sheldon": [
@@ -13852,7 +13872,7 @@
     "shellcheck": [
       {
         "formula": "shellcheck",
-        "count": "201"
+        "count": "196"
       }
     ],
     "shellharden": [
@@ -13864,7 +13884,7 @@
     "shfmt": [
       {
         "formula": "shfmt",
-        "count": "528"
+        "count": "517"
       }
     ],
     "ship": [
@@ -13876,7 +13896,7 @@
     "shpotify": [
       {
         "formula": "shpotify",
-        "count": "6"
+        "count": "7"
       }
     ],
     "shtool": [
@@ -13906,7 +13926,7 @@
     "siege": [
       {
         "formula": "siege",
-        "count": "12"
+        "count": "14"
       }
     ],
     "signal-cli": [
@@ -13960,7 +13980,7 @@
     "sip": [
       {
         "formula": "sip",
-        "count": "34"
+        "count": "35"
       }
     ],
     "sipcalc": [
@@ -13978,19 +13998,19 @@
     "skaffold": [
       {
         "formula": "skaffold",
-        "count": "122"
+        "count": "120"
       }
     ],
     "skopeo": [
       {
         "formula": "skopeo",
-        "count": "9"
+        "count": "8"
       }
     ],
     "sl": [
       {
         "formula": "sl",
-        "count": "136"
+        "count": "135"
       }
     ],
     "slackcat": [
@@ -14002,7 +14022,7 @@
     "sleuthkit": [
       {
         "formula": "sleuthkit",
-        "count": "1"
+        "count": "2"
       }
     ],
     "sloc": [
@@ -14056,7 +14076,7 @@
     "snappy": [
       {
         "formula": "snappy",
-        "count": "335"
+        "count": "334"
       }
     ],
     "sngrep": [
@@ -14116,7 +14136,7 @@
     "sonar-scanner": [
       {
         "formula": "sonar-scanner",
-        "count": "426"
+        "count": "421"
       }
     ],
     "sonarqube": [
@@ -14134,7 +14154,7 @@
     "sops": [
       {
         "formula": "sops",
-        "count": "317"
+        "count": "319"
       }
     ],
     "source-highlight": [
@@ -14152,13 +14172,13 @@
     "sox": [
       {
         "formula": "sox",
-        "count": "22"
+        "count": "23"
       }
     ],
     "spades": [
       {
         "formula": "spades",
-        "count": "18"
+        "count": "19"
       }
     ],
     "spark": [
@@ -14182,25 +14202,25 @@
     "speedtest-cli": [
       {
         "formula": "speedtest-cli",
-        "count": "98"
+        "count": "96"
       }
     ],
     "speex": [
       {
         "formula": "speex",
-        "count": "208"
+        "count": "207"
       }
     ],
     "speexdsp": [
       {
         "formula": "speexdsp",
-        "count": "411"
+        "count": "413"
       }
     ],
     "sphinx": [
       {
         "formula": "sphinx",
-        "count": "14"
+        "count": "13"
       }
     ],
     "sphinx-doc": [
@@ -14224,7 +14244,7 @@
     "spirv-tools": [
       {
         "formula": "spirv-tools",
-        "count": "21"
+        "count": "17"
       }
     ],
     "sponge": [
@@ -14242,19 +14262,25 @@
     "spotbugs": [
       {
         "formula": "spotbugs",
-        "count": "1"
+        "count": "2"
       }
     ],
     "spotify-tui": [
       {
         "formula": "spotify-tui",
-        "count": "37"
+        "count": "33"
       }
     ],
     "spotifyd": [
       {
         "formula": "spotifyd",
         "count": "22"
+      }
+    ],
+    "springboot": [
+      {
+        "formula": "springboot",
+        "count": "5"
       }
     ],
     "sql-translator": [
@@ -14272,7 +14298,7 @@
     "sqlite": [
       {
         "formula": "sqlite",
-        "count": "24,123"
+        "count": "24,197"
       }
     ],
     "sqlite-analyzer": [
@@ -14326,7 +14352,7 @@
     "srt": [
       {
         "formula": "srt",
-        "count": "371"
+        "count": "368"
       }
     ],
     "ssdeep": [
@@ -14338,19 +14364,19 @@
     "ssh-audit": [
       {
         "formula": "ssh-audit",
-        "count": "11"
+        "count": "8"
       }
     ],
     "ssh-copy-id": [
       {
         "formula": "ssh-copy-id",
-        "count": "27"
+        "count": "30"
       }
     ],
     "sshfs": [
       {
         "formula": "sshfs",
-        "count": "23"
+        "count": "24"
       }
     ],
     "sshpass": [
@@ -14362,19 +14388,19 @@
     "sshuttle": [
       {
         "formula": "sshuttle",
-        "count": "35"
+        "count": "34"
       }
     ],
     "sslscan": [
       {
         "formula": "sslscan",
-        "count": "30"
+        "count": "28"
       }
     ],
     "sslyze": [
       {
         "formula": "sslyze",
-        "count": "7"
+        "count": "6"
       }
     ],
     "sstp-client": [
@@ -14410,7 +14436,7 @@
     "starship": [
       {
         "formula": "starship",
-        "count": "646"
+        "count": "641"
       },
       {
         "formula": "starship --HEAD",
@@ -14432,13 +14458,13 @@
     "step": [
       {
         "formula": "step",
-        "count": "18"
+        "count": "19"
       }
     ],
     "stern": [
       {
         "formula": "stern",
-        "count": "263"
+        "count": "244"
       }
     ],
     "stlink": [
@@ -14474,7 +14500,7 @@
     "stoken": [
       {
         "formula": "stoken",
-        "count": "12"
+        "count": "13"
       }
     ],
     "stolon": [
@@ -14504,19 +14530,19 @@
     "stow": [
       {
         "formula": "stow",
-        "count": "32"
+        "count": "31"
       }
     ],
     "strace": [
       {
         "formula": "strace",
-        "count": "2"
+        "count": "3"
       }
     ],
     "streamlink": [
       {
         "formula": "streamlink",
-        "count": "18"
+        "count": "19"
       }
     ],
     "stress": [
@@ -14570,7 +14596,7 @@
     "subversion": [
       {
         "formula": "subversion",
-        "count": "63"
+        "count": "60"
       }
     ],
     "subversion@1.8": [
@@ -14582,7 +14608,7 @@
     "suite-sparse": [
       {
         "formula": "suite-sparse",
-        "count": "69"
+        "count": "70"
       }
     ],
     "sundials": [
@@ -14594,7 +14620,7 @@
     "superlu": [
       {
         "formula": "superlu",
-        "count": "3"
+        "count": "2"
       }
     ],
     "supervisor": [
@@ -14612,7 +14638,7 @@
     "svgcleaner": [
       {
         "formula": "svgcleaner",
-        "count": "3"
+        "count": "2"
       }
     ],
     "svgo": [
@@ -14630,7 +14656,7 @@
     "swagger-codegen": [
       {
         "formula": "swagger-codegen",
-        "count": "53"
+        "count": "55"
       }
     ],
     "swagger-codegen@2": [
@@ -14642,7 +14668,7 @@
     "swagger2markup-cli": [
       {
         "formula": "swagger2markup-cli",
-        "count": "1"
+        "count": "2"
       }
     ],
     "swaks": [
@@ -14672,7 +14698,7 @@
     "swift": [
       {
         "formula": "swift",
-        "count": "32"
+        "count": "29"
       }
     ],
     "swift-protobuf": [
@@ -14684,7 +14710,7 @@
     "swig": [
       {
         "formula": "swig",
-        "count": "138"
+        "count": "130"
       }
     ],
     "swig@3": [
@@ -14720,13 +14746,13 @@
     "systemd": [
       {
         "formula": "systemd",
-        "count": "923"
+        "count": "953"
       }
     ],
     "szip": [
       {
         "formula": "szip",
-        "count": "190"
+        "count": "192"
       }
     ],
     "t-completion": [
@@ -14744,7 +14770,7 @@
     "taglib": [
       {
         "formula": "taglib",
-        "count": "3"
+        "count": "4"
       },
       {
         "formula": "taglib --HEAD",
@@ -14766,19 +14792,19 @@
     "tanka": [
       {
         "formula": "tanka",
-        "count": "6"
+        "count": "5"
       }
     ],
     "task": [
       {
         "formula": "task",
-        "count": "15"
+        "count": "11"
       }
     ],
     "taskd": [
       {
         "formula": "taskd",
-        "count": "6"
+        "count": "4"
       }
     ],
     "taskell": [
@@ -14790,19 +14816,19 @@
     "tasksh": [
       {
         "formula": "tasksh",
-        "count": "6"
+        "count": "4"
       }
     ],
     "tbb": [
       {
         "formula": "tbb",
-        "count": "158"
+        "count": "153"
       }
     ],
     "tcl-tk": [
       {
         "formula": "tcl-tk",
-        "count": "224"
+        "count": "219"
       }
     ],
     "tclap": [
@@ -14898,19 +14924,19 @@
     "telegram-cli": [
       {
         "formula": "telegram-cli",
-        "count": "5"
+        "count": "4"
       }
     ],
     "teleport": [
       {
         "formula": "teleport",
-        "count": "7"
+        "count": "6"
       }
     ],
     "telnet": [
       {
         "formula": "telnet",
-        "count": "49"
+        "count": "45"
       }
     ],
     "tengo": [
@@ -14928,7 +14954,7 @@
     "termcolor": [
       {
         "formula": "termcolor",
-        "count": "2"
+        "count": "3"
       }
     ],
     "terminalimageviewer": [
@@ -14940,7 +14966,7 @@
     "termshark": [
       {
         "formula": "termshark",
-        "count": "8"
+        "count": "7"
       }
     ],
     "termtosvg": [
@@ -14952,13 +14978,13 @@
     "terraform": [
       {
         "formula": "terraform",
-        "count": "2,898"
+        "count": "2,869"
       }
     ],
     "terraform-docs": [
       {
         "formula": "terraform-docs",
-        "count": "197"
+        "count": "195"
       }
     ],
     "terraform-inventory": [
@@ -14976,13 +15002,13 @@
     "terraform@0.11": [
       {
         "formula": "terraform@0.11",
-        "count": "4"
+        "count": "5"
       }
     ],
     "terraform@0.12": [
       {
         "formula": "terraform@0.12",
-        "count": "49"
+        "count": "51"
       }
     ],
     "terraform_landscape": [
@@ -14994,7 +15020,7 @@
     "terraformer": [
       {
         "formula": "terraformer",
-        "count": "32"
+        "count": "31"
       }
     ],
     "terraforming": [
@@ -15006,7 +15032,7 @@
     "terragrunt": [
       {
         "formula": "terragrunt",
-        "count": "766"
+        "count": "746"
       }
     ],
     "terrascan": [
@@ -15018,7 +15044,7 @@
     "tesseract": [
       {
         "formula": "tesseract",
-        "count": "238"
+        "count": "239"
       },
       {
         "formula": "tesseract --HEAD",
@@ -15028,7 +15054,7 @@
     "tesseract-lang": [
       {
         "formula": "tesseract-lang",
-        "count": "10"
+        "count": "11"
       }
     ],
     "testdisk": [
@@ -15052,7 +15078,7 @@
     "texinfo": [
       {
         "formula": "texinfo",
-        "count": "927"
+        "count": "935"
       }
     ],
     "texlive": [
@@ -15070,19 +15096,19 @@
     "tfenv": [
       {
         "formula": "tfenv",
-        "count": "1,026"
+        "count": "997"
       }
     ],
     "tflint": [
       {
         "formula": "tflint",
-        "count": "378"
+        "count": "365"
       }
     ],
     "tfsec": [
       {
         "formula": "tfsec",
-        "count": "32"
+        "count": "29"
       }
     ],
     "tfstate-lookup": [
@@ -15094,19 +15120,19 @@
     "the_platinum_searcher": [
       {
         "formula": "the_platinum_searcher",
-        "count": "2"
+        "count": "3"
       }
     ],
     "the_silver_searcher": [
       {
         "formula": "the_silver_searcher",
-        "count": "537"
+        "count": "528"
       }
     ],
     "thefuck": [
       {
         "formula": "thefuck",
-        "count": "221"
+        "count": "212"
       }
     ],
     "theharvester": [
@@ -15130,7 +15156,7 @@
     "thrift": [
       {
         "formula": "thrift",
-        "count": "16"
+        "count": "17"
       }
     ],
     "thrift@0.9": [
@@ -15142,7 +15168,7 @@
     "tidy-html5": [
       {
         "formula": "tidy-html5",
-        "count": "253"
+        "count": "250"
       }
     ],
     "tidyp": [
@@ -15154,7 +15180,7 @@
     "tig": [
       {
         "formula": "tig",
-        "count": "179"
+        "count": "181"
       }
     ],
     "tiger-vnc": [
@@ -15172,7 +15198,7 @@
     "timewarrior": [
       {
         "formula": "timewarrior",
-        "count": "2"
+        "count": "1"
       }
     ],
     "tintin": [
@@ -15203,32 +15229,28 @@
       {
         "formula": "tldr",
         "count": "128"
-      },
-      {
-        "formula": "tldr --HEAD",
-        "count": "2"
       }
     ],
     "tmate": [
       {
         "formula": "tmate",
-        "count": "93"
+        "count": "101"
       }
     ],
     "tmux": [
       {
         "formula": "tmux",
-        "count": "857"
+        "count": "852"
       },
       {
         "formula": "tmux --HEAD",
-        "count": "7"
+        "count": "6"
       }
     ],
     "tmux-mem-cpu-load": [
       {
         "formula": "tmux-mem-cpu-load",
-        "count": "12"
+        "count": "13"
       }
     ],
     "tmux-xpanes": [
@@ -15246,7 +15268,7 @@
     "tmuxinator": [
       {
         "formula": "tmuxinator",
-        "count": "34"
+        "count": "33"
       }
     ],
     "tmuxinator-completion": [
@@ -15270,7 +15292,7 @@
     "todo-txt": [
       {
         "formula": "todo-txt",
-        "count": "16"
+        "count": "15"
       }
     ],
     "toilet": [
@@ -15306,13 +15328,13 @@
     "tomcat": [
       {
         "formula": "tomcat",
-        "count": "11"
+        "count": "12"
       }
     ],
     "tomcat@7": [
       {
         "formula": "tomcat@7",
-        "count": "1"
+        "count": "2"
       }
     ],
     "tomcat@8": [
@@ -15336,19 +15358,19 @@
     "topgrade": [
       {
         "formula": "topgrade",
-        "count": "60"
+        "count": "61"
       }
     ],
     "tor": [
       {
         "formula": "tor",
-        "count": "25"
+        "count": "26"
       }
     ],
     "torsocks": [
       {
         "formula": "torsocks",
-        "count": "13"
+        "count": "14"
       }
     ],
     "touist": [
@@ -15390,7 +15412,7 @@
     "transcrypt": [
       {
         "formula": "transcrypt",
-        "count": "10"
+        "count": "11"
       }
     ],
     "translate-shell": [
@@ -15408,13 +15430,13 @@
     "trash": [
       {
         "formula": "trash",
-        "count": "18"
+        "count": "17"
       }
     ],
     "trash-cli": [
       {
         "formula": "trash-cli",
-        "count": "33"
+        "count": "32"
       }
     ],
     "travis": [
@@ -15432,7 +15454,7 @@
     "tree": [
       {
         "formula": "tree",
-        "count": "482"
+        "count": "478"
       }
     ],
     "truncate": [
@@ -15450,7 +15472,7 @@
     "ttfautohint": [
       {
         "formula": "ttfautohint",
-        "count": "8"
+        "count": "9"
       }
     ],
     "tty-clock": [
@@ -15474,7 +15496,7 @@
     "ttyrec": [
       {
         "formula": "ttyrec",
-        "count": "6"
+        "count": "4"
       }
     ],
     "tvnamer": [
@@ -15492,7 +15514,7 @@
     "twine-pypi": [
       {
         "formula": "twine-pypi",
-        "count": "4"
+        "count": "3"
       }
     ],
     "two-lame": [
@@ -15510,7 +15532,7 @@
     "typescript": [
       {
         "formula": "typescript",
-        "count": "13"
+        "count": "15"
       }
     ],
     "ubertooth": [
@@ -15522,7 +15544,7 @@
     "uchardet": [
       {
         "formula": "uchardet",
-        "count": "13"
+        "count": "12"
       }
     ],
     "ucspi-tcp": [
@@ -15588,13 +15610,13 @@
     "unbound": [
       {
         "formula": "unbound",
-        "count": "1,375"
+        "count": "1,379"
       }
     ],
     "uncrustify": [
       {
         "formula": "uncrustify",
-        "count": "44"
+        "count": "85"
       }
     ],
     "ungit": [
@@ -15606,13 +15628,13 @@
     "unibilium": [
       {
         "formula": "unibilium",
-        "count": "446"
+        "count": "448"
       }
     ],
     "unison": [
       {
         "formula": "unison",
-        "count": "103"
+        "count": "102"
       }
     ],
     "unittest-cpp": [
@@ -15660,13 +15682,13 @@
     "unrar": [
       {
         "formula": "unrar",
-        "count": "40"
+        "count": "41"
       }
     ],
     "unzip": [
       {
         "formula": "unzip",
-        "count": "18,956"
+        "count": "18,538"
       }
     ],
     "up": [
@@ -15678,7 +15700,7 @@
     "upx": [
       {
         "formula": "upx",
-        "count": "308"
+        "count": "312"
       }
     ],
     "urlview": [
@@ -15693,22 +15715,28 @@
         "count": "1"
       }
     ],
+    "usb.ids": [
+      {
+        "formula": "usb.ids",
+        "count": "1"
+      }
+    ],
     "utf8proc": [
       {
         "formula": "utf8proc",
-        "count": "109"
+        "count": "104"
       }
     ],
     "util-linux": [
       {
         "formula": "util-linux",
-        "count": "4,994"
+        "count": "5,018"
       }
     ],
     "util-macros": [
       {
         "formula": "util-macros",
-        "count": "537"
+        "count": "525"
       }
     ],
     "uutils-coreutils": [
@@ -15744,7 +15772,7 @@
     "v8@3.15": [
       {
         "formula": "v8@3.15",
-        "count": "13"
+        "count": "15"
       }
     ],
     "vagrant-completion": [
@@ -15762,13 +15790,13 @@
     "vale": [
       {
         "formula": "vale",
-        "count": "192"
+        "count": "190"
       }
     ],
     "valgrind": [
       {
         "formula": "valgrind",
-        "count": "62"
+        "count": "57"
       },
       {
         "formula": "valgrind --HEAD",
@@ -15778,13 +15806,13 @@
     "vamp-plugin-sdk": [
       {
         "formula": "vamp-plugin-sdk",
-        "count": "221"
+        "count": "220"
       }
     ],
     "vapoursynth": [
       {
         "formula": "vapoursynth",
-        "count": "24"
+        "count": "22"
       }
     ],
     "vapoursynth-imwri": [
@@ -15856,13 +15884,13 @@
     "vcsh": [
       {
         "formula": "vcsh",
-        "count": "5"
+        "count": "3"
       }
     ],
     "vde": [
       {
         "formula": "vde",
-        "count": "52"
+        "count": "51"
       }
     ],
     "vdirsyncer": [
@@ -15874,13 +15902,13 @@
     "vegeta": [
       {
         "formula": "vegeta",
-        "count": "52"
+        "count": "55"
       }
     ],
     "velero": [
       {
         "formula": "velero",
-        "count": "30"
+        "count": "29"
       }
     ],
     "verifpal": [
@@ -15910,13 +15938,13 @@
     "vifm": [
       {
         "formula": "vifm",
-        "count": "28"
+        "count": "27"
       }
     ],
     "vim": [
       {
         "formula": "vim",
-        "count": "1,104"
+        "count": "1,134"
       },
       {
         "formula": "vim --HEAD",
@@ -15947,12 +15975,6 @@
         "count": "1"
       }
     ],
-    "vit": [
-      {
-        "formula": "vit",
-        "count": "1"
-      }
-    ],
     "vitetris": [
       {
         "formula": "vitetris",
@@ -15962,7 +15984,7 @@
     "vivid": [
       {
         "formula": "vivid",
-        "count": "3"
+        "count": "4"
       }
     ],
     "vlang": [
@@ -16016,7 +16038,7 @@
     "vsftpd": [
       {
         "formula": "vsftpd",
-        "count": "3"
+        "count": "2"
       }
     ],
     "vsts-cli": [
@@ -16031,12 +16053,6 @@
         "count": "17"
       }
     ],
-    "vtk@8.2": [
-      {
-        "formula": "vtk@8.2",
-        "count": "1"
-      }
-    ],
     "vulkan-headers": [
       {
         "formula": "vulkan-headers",
@@ -16046,7 +16062,7 @@
     "w3m": [
       {
         "formula": "w3m",
-        "count": "46"
+        "count": "42"
       }
     ],
     "wabt": [
@@ -16058,7 +16074,7 @@
     "wakatime-cli": [
       {
         "formula": "wakatime-cli",
-        "count": "11"
+        "count": "10"
       }
     ],
     "wakeonlan": [
@@ -16100,23 +16116,23 @@
     "watch": [
       {
         "formula": "watch",
-        "count": "66"
+        "count": "68"
       }
     ],
     "watchexec": [
       {
         "formula": "watchexec",
-        "count": "12"
+        "count": "13"
       }
     ],
     "watchman": [
       {
         "formula": "watchman",
-        "count": "635"
+        "count": "639"
       },
       {
         "formula": "watchman --HEAD",
-        "count": "51"
+        "count": "52"
       }
     ],
     "watson": [
@@ -16146,7 +16162,7 @@
     "wdiff": [
       {
         "formula": "wdiff",
-        "count": "5"
+        "count": "6"
       }
     ],
     "webify": [
@@ -16158,13 +16174,13 @@
     "webp": [
       {
         "formula": "webp",
-        "count": "949"
+        "count": "954"
       }
     ],
     "webpack": [
       {
         "formula": "webpack",
-        "count": "8"
+        "count": "7"
       }
     ],
     "websocat": [
@@ -16183,6 +16199,10 @@
       {
         "formula": "weechat",
         "count": "9"
+      },
+      {
+        "formula": "weechat --HEAD",
+        "count": "1"
       }
     ],
     "wemux": [
@@ -16200,7 +16220,7 @@
     "wget": [
       {
         "formula": "wget",
-        "count": "740"
+        "count": "741"
       },
       {
         "formula": "wget --HEAD",
@@ -16246,7 +16266,7 @@
     "wiki": [
       {
         "formula": "wiki",
-        "count": "2"
+        "count": "1"
       }
     ],
     "wimlib": [
@@ -16282,7 +16302,7 @@
     "wireshark": [
       {
         "formula": "wireshark",
-        "count": "46"
+        "count": "49"
       }
     ],
     "with-readline": [
@@ -16360,13 +16380,13 @@
     "wtfutil": [
       {
         "formula": "wtfutil",
-        "count": "24"
+        "count": "26"
       }
     ],
     "wxmac": [
       {
         "formula": "wxmac",
-        "count": "124"
+        "count": "122"
       }
     ],
     "wxmaxima": [
@@ -16375,28 +16395,22 @@
         "count": "1"
       }
     ],
-    "wxpython": [
-      {
-        "formula": "wxpython",
-        "count": "1"
-      }
-    ],
     "x11vnc": [
       {
         "formula": "x11vnc",
-        "count": "3"
+        "count": "2"
       }
     ],
     "x264": [
       {
         "formula": "x264",
-        "count": "324"
+        "count": "311"
       }
     ],
     "x265": [
       {
         "formula": "x265",
-        "count": "464"
+        "count": "460"
       }
     ],
     "x3270": [
@@ -16408,13 +16422,13 @@
     "x86_64-elf-binutils": [
       {
         "formula": "x86_64-elf-binutils",
-        "count": "25"
+        "count": "24"
       }
     ],
     "x86_64-elf-gcc": [
       {
         "formula": "x86_64-elf-gcc",
-        "count": "33"
+        "count": "32"
       }
     ],
     "xa": [
@@ -16432,7 +16446,7 @@
     "xapian": [
       {
         "formula": "xapian",
-        "count": "21"
+        "count": "22"
       }
     ],
     "xboard": [
@@ -16450,7 +16464,7 @@
     "xclip": [
       {
         "formula": "xclip",
-        "count": "92"
+        "count": "90"
       }
     ],
     "xcodegen": [
@@ -16468,19 +16482,19 @@
     "xdotool": [
       {
         "formula": "xdotool",
-        "count": "4"
+        "count": "3"
       }
     ],
     "xdpyinfo": [
       {
         "formula": "xdpyinfo",
-        "count": "19"
+        "count": "18"
       }
     ],
     "xerces-c": [
       {
         "formula": "xerces-c",
-        "count": "40"
+        "count": "43"
       }
     ],
     "xgboost": [
@@ -16522,19 +16536,19 @@
     "xmlrpc-c": [
       {
         "formula": "xmlrpc-c",
-        "count": "6"
+        "count": "5"
       }
     ],
     "xmlstarlet": [
       {
         "formula": "xmlstarlet",
-        "count": "10"
+        "count": "9"
       }
     ],
     "xmlto": [
       {
         "formula": "xmlto",
-        "count": "486"
+        "count": "483"
       }
     ],
     "xmltoman": [
@@ -16552,7 +16566,7 @@
     "xorgproto": [
       {
         "formula": "xorgproto",
-        "count": "2,632"
+        "count": "2,531"
       }
     ],
     "xorriso": [
@@ -16576,7 +16590,7 @@
     "xrootd": [
       {
         "formula": "xrootd",
-        "count": "10"
+        "count": "11"
       }
     ],
     "xsv": [
@@ -16588,13 +16602,13 @@
     "xtrans": [
       {
         "formula": "xtrans",
-        "count": "497"
+        "count": "485"
       }
     ],
     "xvid": [
       {
         "formula": "xvid",
-        "count": "213"
+        "count": "211"
       }
     ],
     "xxh": [
@@ -16612,13 +16626,13 @@
     "xz": [
       {
         "formula": "xz",
-        "count": "23,578"
+        "count": "23,615"
       }
     ],
     "yadm": [
       {
         "formula": "yadm",
-        "count": "14"
+        "count": "15"
       }
     ],
     "yaegi": [
@@ -16648,7 +16662,7 @@
     "yamllint": [
       {
         "formula": "yamllint",
-        "count": "107"
+        "count": "110"
       }
     ],
     "yank": [
@@ -16672,7 +16686,7 @@
     "yarn": [
       {
         "formula": "yarn",
-        "count": "1,209"
+        "count": "1,226"
       }
     ],
     "yarn-completion": [
@@ -16690,7 +16704,7 @@
     "yasm": [
       {
         "formula": "yasm",
-        "count": "17"
+        "count": "20"
       }
     ],
     "ydiff": [
@@ -16720,13 +16734,13 @@
     "ykman": [
       {
         "formula": "ykman",
-        "count": "19"
+        "count": "14"
       }
     ],
     "ykpers": [
       {
         "formula": "ykpers",
-        "count": "21"
+        "count": "17"
       }
     ],
     "yle-dl": [
@@ -16738,31 +16752,31 @@
     "you-get": [
       {
         "formula": "you-get",
-        "count": "15"
+        "count": "16"
       }
     ],
     "youtube-dl": [
       {
         "formula": "youtube-dl",
-        "count": "288"
+        "count": "284"
       }
     ],
     "yq": [
       {
         "formula": "yq",
-        "count": "954"
+        "count": "943"
       }
     ],
     "yubico-piv-tool": [
       {
         "formula": "yubico-piv-tool",
-        "count": "6"
+        "count": "2"
       }
     ],
     "yuicompressor": [
       {
         "formula": "yuicompressor",
-        "count": "1"
+        "count": "2"
       }
     ],
     "z": [
@@ -16810,25 +16824,25 @@
     "zeek": [
       {
         "formula": "zeek",
-        "count": "4"
+        "count": "3"
       }
     ],
     "zenith": [
       {
         "formula": "zenith",
-        "count": "26"
+        "count": "25"
       }
     ],
     "zeromq": [
       {
         "formula": "zeromq",
-        "count": "123"
+        "count": "128"
       }
     ],
     "zig": [
       {
         "formula": "zig",
-        "count": "13"
+        "count": "14"
       }
     ],
     "zile": [
@@ -16846,19 +16860,19 @@
     "zimg": [
       {
         "formula": "zimg",
-        "count": "23"
+        "count": "22"
       }
     ],
     "zip": [
       {
         "formula": "zip",
-        "count": "1,439"
+        "count": "1,453"
       }
     ],
     "zlib": [
       {
         "formula": "zlib",
-        "count": "29,255"
+        "count": "29,286"
       }
     ],
     "zmqpp": [
@@ -16870,25 +16884,25 @@
     "znc": [
       {
         "formula": "znc",
-        "count": "2"
+        "count": "3"
       }
     ],
     "zola": [
       {
         "formula": "zola",
-        "count": "16"
+        "count": "17"
       }
     ],
     "zookeeper": [
       {
         "formula": "zookeeper",
-        "count": "78"
+        "count": "84"
       }
     ],
     "zopfli": [
       {
         "formula": "zopfli",
-        "count": "4"
+        "count": "3"
       }
     ],
     "zoxide": [
@@ -16900,37 +16914,37 @@
     "zplug": [
       {
         "formula": "zplug",
-        "count": "89"
+        "count": "90"
       }
     ],
     "zsh": [
       {
         "formula": "zsh",
-        "count": "829"
+        "count": "840"
       }
     ],
     "zsh-autosuggestions": [
       {
         "formula": "zsh-autosuggestions",
-        "count": "46"
+        "count": "48"
       }
     ],
     "zsh-completions": [
       {
         "formula": "zsh-completions",
-        "count": "131"
+        "count": "135"
       }
     ],
     "zsh-git-prompt": [
       {
         "formula": "zsh-git-prompt",
-        "count": "6"
+        "count": "7"
       }
     ],
     "zsh-history-substring-search": [
       {
         "formula": "zsh-history-substring-search",
-        "count": "55"
+        "count": "59"
       }
     ],
     "zsh-lovers": [
@@ -16942,13 +16956,13 @@
     "zsh-navigation-tools": [
       {
         "formula": "zsh-navigation-tools",
-        "count": "2"
+        "count": "3"
       }
     ],
     "zsh-syntax-highlighting": [
       {
         "formula": "zsh-syntax-highlighting",
-        "count": "106"
+        "count": "113"
       }
     ],
     "zsh-you-should-use": [
@@ -16966,7 +16980,7 @@
     "zstd": [
       {
         "formula": "zstd",
-        "count": "861"
+        "count": "860"
       }
     ],
     "zydis": [
